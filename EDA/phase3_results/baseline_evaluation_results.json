@@ -1,0 +1,19 @@
+{
+  "baseline_performance": {
+    "accuracy": 0.6666666666666666,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "avg_latency_ms": 0.0009953339273730915,
+    "confusion_matrix": {
+      "TP": "0",
+      "TN": "100",
+      "FP": "0",
+      "FN": "50"
+    },
+    "total_pairs": 150
+  },
+  "evaluation_timestamp": "2025-09-10T13:54:27.292594",
+  "gold_standard_size": 150,
+  "methodology": "Baseline normalization with exact string matching"
+}

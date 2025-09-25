@@ -1,0 +1,1001 @@
+original_street,normalized_street,original_postcode,normalized_postcode,original_city,normalized_city,original_completeness,improved_completeness
+Rua Professor Huberto Maas,rua professor huberto maas,7450-131,7450-131,Monforte,monforte,1.0,1.0
+Rua do Almada,rua almada,,,,,0.25,0.25
+Largo da Liberdade,largo liberdade,7780-403,7780-403,Lombador,,1.0,0.75
+Rua de Macau,rua macau,,,,,0.5,0.5
+Rua 1º de Dezembro,rua 1º dezembro,7490-102,7490-102,Cabeção,,1.0,0.75
+Travessa dos Cobertos,travessa cobertos,2910-466,2910-466,Setúbal,setubal,1.0,1.0
+Rua Conde Carvalhal,rua conde carvalhal,9060-054,9060-054,,,0.75,0.75
+Rua Alegre,rua alegre,7830-214,7830-214,Pias,,1.0,0.75
+Rua de São Francisco,rua sao francisco,7960-221,7960-221,Vidigueira,vidigueira,1.0,1.0
+Rua Catarina Eufémia,rua catarina eufemia,7830-011,7830-011,Vila Nova de São Bento,vila verde,1.0,1.0
+Vereda Cascalho,vereda cascalho,9020-273,9020-273,Funchal,funchal,1.0,1.0
+,,7630-438,7630-438,São Luís,sao joao da madeira,0.5,0.5
+Rua Tomás Ribeiro,rua tomas ribeiro,,,,,0.5,0.5
+Rua Doutor José Afonso,rua doutor jose afonso,8700-278,8700-278,Olhão,olhao,1.0,1.0
+Rua da Praça,rua praca,7800-611,7800-611,Baleizão,,1.0,0.75
+Rua dos Fetais,rua fetais,2405-011,2405-011,Maceira,,0.75,0.5
+Rua do Negrão,rua negrao,,,,,0.5,0.5
+Rua do Vale Ana Gomes,rua vale ana gomes,2910-199,2910-199,Setúbal,setubal,1.0,1.0
+Largo do Hospital,largo hospital,7940-454,7940-454,Vila Ruiva,vila nova de foz coa,1.0,1.0
+Caminho Monte,caminho monte,9050-084,9050-084,,,0.75,0.75
+Rua Divina Providencia,rua divina providencia,7875-011,7875-011,Safara,,1.0,0.75
+Rua Principal,rua principal,2140-670,2140-670,Carregueira,,1.0,0.75
+,,,,,,0.25,0.25
+,,7500-023,7500-023,Bacêlos,barcelos,0.5,0.5
+Rua das Torres,rua torres,7595-124,7595-124,Torrão,,1.0,0.75
+Vereda Vigários,vereda vigarios,9325-267,9325-267,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua Augusto Matos,rua augusto matos,3040-014,3040-014,Coimbra,coimbra,1.0,1.0
+Travessa Lombo Da Lourencinha,travessa lombo lourencinha,9300-091,9300-091,Câmara de Lobos,camara de lobos,1.0,1.0
+Bairro Soeiro Pereira Gomes,bairro soeiro pereira gomes,7520-125,7520-125,Sines,sines,1.0,1.0
+Rua Natalia Correia,rua natalia correia,7830-363,7830-363,Serpa,serpa,1.0,1.0
+Avenida Maria Helena Vieira da Silva,avenida maria helena vieira silva,,,,,0.25,0.25
+Rua Marquês de Pombal,rua marques pombal,7580-166,7580-166,Alcácer do Sal,alcacer do sal,1.0,1.0
+Estrada de Coruche,estrada coruche,7425-215,7425-215,Foros do Arrão,,1.0,0.75
+R Igreja,rua igreja,4630-564,4630-564,Paredes De Viadores,paredes,1.0,1.0
+Rua Doutor Cândido de Pinho,rua doutor candido pinho,,,,,0.5,0.5
+Rua das Irmandades,rua irmandades,,,,,0.5,0.5
+Travessa do Monteco,travessa monteco,7200-107,7200-107,São Pedro do Corval,ponta do sol,1.0,1.0
+Rua Cruzes Conj Habitacional Das Cruzes,rua cruzes conj habitacional cruzes,9000-025,9000-025,,,0.75,0.75
+Rua Vasco da Gama,rua vasco gama,7600-117,7600-117,Aljustrel,aljustrel,1.0,1.0
+Estrada Regional 1-1,estrada regional 1-1,9900-343,9900-343,Cedros,,1.0,0.75
+,,,,,,0.25,0.25
+Rua Nova,rua nova,2100-376,2100-376,Santa Justa,santa maria da feira,1.0,1.0
+Avenida da República,avenida republica,8900,,Vila Real de Santo António,vila real de santo antonio,1.0,0.75
+Travessa Tanques,travessa tanques,9125-199,9125-199,,,0.5,0.5
+Rua da Boavista,rua boavista,7005-790,7005-790,Torre de Coelheiros,porto de mos,1.0,1.0
+Largo Condes da Ericeira,largo condes ericeira,,,Ericeira,,0.5,0.25
+Rua Casa Branca,rua casa branca,9000-113,9000-113,,,0.75,0.75
+Travessa Vera Cruz,travessa vera cruz,9300-296,9300-296,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua do Pacífico,rua pacifico,,,Quarteira,,0.75,0.5
+Rua do Campo,rua campo,5000-051,5000-051,Vila Real,vila real,1.0,1.0
+Rua da Carreira,rua carreira,7160-129,7160-129,Ciladas (São Romão),sao vicente,1.0,1.0
+Rua João Rodrigues Valente,rua joao rodrigues valente,8700-255,8700-255,Olhão,olhao,1.0,1.0
+Avenida Combatentes da Grande Guerra,avenida combatentes grande guerra,7005-138,7005-138,Évora,evora,1.0,1.0
+Travessa da Ermida,travessa ermida,7425-202,7425-202,Foros do Arrão de Baixo,ponte de lima,0.75,0.75
+Rua das Cancelas,rua cancelas,9900-327,9900-327,Castelo Branco,castelo branco,1.0,1.0
+,,,,Juromenha,,0.25,0.0
+Entrada Capela Do Amparo,entrada capela amparo,9000-263,9000-263,,,0.75,0.75
+Praceta Stela de Albuquerque,praceta stela albuquerque,,,Corroios,,0.75,0.5
+,,2510-772,2510-772,Usseira,,0.75,0.5
+,,7220-301,7220-301,Oriola,,0.5,0.25
+Rua José Ricardo,rua jose ricardo,1900-287,1900-287,,,0.75,0.75
+Rua dos Capitães de Abril,rua capitaes abril,7425-124,7425-124,Montargil,,1.0,0.75
+Rua Bispo d Francisco Santana,rua bispo d francisco santana,9400-126,9400-126,,,0.75,0.75
+Rua Luís de Camões,rua luis camoes,3700-171,3700-171,São João da Madeira,sao joao da madeira,1.0,1.0
+Praça Dom Pedro IV,praca dom pedro iv,,,,,0.5,0.5
+Largo Nossa Senhora da Conceição,largo nossa senhora conceicao,7005-225,7005-225,Évora,evora,1.0,1.0
+,,,,,,0.0,0.0
+Rua Félix de Lacerda,rua felix lacerda,,,,,0.5,0.5
+Rua do Poço Entre Vinhas,rua poco entre vinhas,7005-438,7005-438,Évora,evora,1.0,1.0
+Rua da Finicisa,rua finicisa,7300-436,7300-436,,,0.75,0.75
+Rua Dom Sancho I,rua dom sancho i,3030-396,3030-396,Coimbra,coimbra,1.0,1.0
+,,9700,,,,0.25,0.0
+Rua Dr Manuel De Vasconcelos,rua dr manuel vasconcelos,4630-280,4630-280,Marco De Canaveses,marco de canaveses,1.0,1.0
+Rua Hortas,rua hortas,9050-024,9050-024,,,0.75,0.75
+Rua João José Samouco da Fonseca,rua joao jose samouco fonseca,2140-153,2140-153,Chamusca,chamusca,1.0,1.0
+Estrada Nossa Senhora do Amparo,estrada nossa senhora amparo,,,,,0.5,0.5
+Rua Consolação,rua consolacao,9050-455,9050-455,,,0.75,0.75
+Estrada Padre Alfredo Vieira Freitas,estrada padre alfredo vieira freitas,9100-079,9100-079,,,0.75,0.75
+Rua 1º de Dezembro,rua 1º dezembro,3870-123,3870-123,Murtosa,murtosa,1.0,1.0
+Rua de Santa Maria,rua santa maria,7000-592,7000-592,Évora,evora,1.0,1.0
+Estrada Poiso Ent 43,estrada poiso ent 43,9360-323,9360-323,,,0.75,0.75
+R D António Jose Da Rocha Couto,rua d antonio jose rocha couto,4625-640,4625-640,Vila Boa Do Bispo,vila do bispo,1.0,1.0
+,,,,,,0.0,0.0
+Rua do Arrife,rua arrife,9900-401,9900-401,Flamengos,,1.0,0.75
+Rua Ribeira,rua ribeira,9200-133,9200-133,,,0.75,0.75
+Rua do Cooperativismo,rua cooperativismo,7490-204,7490-204,Mora,mora,1.0,1.0
+Avenida Dom Basílio do Nascimento Martins,avenida dom basilio nascimento martins,7470-011,7470-011,Cano,,1.0,0.75
+Rua da União Filármónica - UFA,rua uniao filarmonica - ufa,2510-011,2510-011,A-da-Gorda,sao joao da madeira,1.0,1.0
+Rua Nossa Senhora da Visitação,rua nossa senhora visitacao,7050-265,7050-265,Montemor-o-Novo,montemor-o-novo,1.0,1.0
+Rua do Algarve,rua algarve,7700-054,7700-054,Almodôvar,almodovar,1.0,1.0
+Travessa Descanso,travessa descanso,9050-073,9050-073,,,0.75,0.75
+Estrada de Rasa,estrada rasa,7330-335,7330-335,Rasa,,1.0,0.75
+,,,,,,0.25,0.25
+Rua Padre António Rodrigues Dinis Henriques,rua padre antonio rodrigues dinis henriques,9300-408,9300-408,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua do Coudel,rua coudel,2725-277,2725-277,Mem Martins,,1.0,0.75
+Rua de Cima,rua cima,7800-101,7800-101,Beja,beja,1.0,1.0
+,,,,,,0.25,0.25
+Tapada do Poço Largo,tapada poco largo,7470-157,7470-157,Casa Branca,,1.0,0.75
+Travessa Igreja,travessa igreja,9200-124,9200-124,,,0.75,0.75
+Rua do Brasil,rua brasil,7875-071,7875-071,Safara,,1.0,0.75
+Rua Cidade de Rio Maior,rua cidade rio maior,2040-069,2040-069,Rio Maior,rio maior,1.0,1.0
+Rua da Botica,rua botica,4485-929,4485-929,Mosteiró,,1.0,0.75
+Avenida de António Santos Leite,avenida antonio santos leite,,,,,0.5,0.5
+Largo do Calvário,largo calvario,6050-027,6050-027,Alpalhão,,1.0,0.75
+,,8700-173,8700-173,Olhão,olhao,0.75,0.75
+Rua Clube dos Caçadores,rua clube cacadores,,,,,0.5,0.5
+Rua Das Azáleas,rua azaleas,9135-051,9135-051,,,0.75,0.75
+Avenida da Libertação,avenida libertacao,7460-002,7460-002,Cabeço de Vide,reguengos de monsaraz,1.0,1.0
+Rua José Augusto Vaz,rua jose augusto vaz,7350-511,7350-511,Vila Fernando,vila nova de foz coa,1.0,1.0
+Rua Nova do Paço,rua nova paco,7800-611,7800-611,Baleizão,,1.0,0.75
+Rua Dom Mendo Afonso,rua dom mendo afonso,4990-706,4990-706,Refóios do Lima,,1.0,0.75
+Rua Vasco da Gama,rua vasco gama,7400-552,7400-552,Vale de Açôr,macedo de cavaleiros,1.0,1.0
+Rua Joaquim António de Aguiar,rua joaquim antonio aguiar,3000-231,3000-231,Coimbra,coimbra,1.0,1.0
+Rua João Ponte Cabreira,rua joao ponte cabreira,7340-033,7340-033,Arronches,arronches,1.0,1.0
+Rua Vasco da Gama,rua vasco gama,7595-049,7595-049,Torrão,,1.0,0.75
+Rua Doutor Ângelo Ançã,rua doutor angelo anca,7800-804,7800-804,Beringel,,1.0,0.75
+Rua das Pedras de Baixo,rua pedras baixo,,,,,0.5,0.5
+Rua da Mariana,rua mariana,,,,,0.5,0.5
+Rua de Macau,rua macau,7200-350,7200-350,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua dos Touros,rua touros,7000-665,7000-665,Évora,evora,1.0,1.0
+Urbanização Ponte das Eiras,urbanizacao ponte eiras,4760-485,4760-485,Fradelos,,1.0,0.75
+,,,,,,0.25,0.25
+Rua Maria Ascensao,rua maria ascensao,9135-382,9135-382,,,0.75,0.75
+Rua Arrais João Faustino,rua arrais joao faustino,3870-332,3870-332,Torreira,,1.0,0.75
+,,8700-180,8700-180,Pechão,,0.75,0.5
+Rua da Ferrôa,rua ferroa,7470-029,7470-029,Cano,,1.0,0.75
+Bairro da Ribeira,bairro ribeira,7300-436,7300-436,,,0.75,0.75
+,,4510-707,4510-707,Fânzeres,,0.5,0.25
+Travessa da Fábrica dos Pentes,travessa fabrica pentes,,,,,0.5,0.5
+Rua S Pedro,rua s pedro,9400-225,9400-225,,,0.75,0.75
+Rua Cravos,rua cravos,,,,,0.5,0.5
+Estrada Lombo,estrada lombo,9360-308,9360-308,,,0.75,0.75
+Rua da Alagoa,rua alagoa,7350-023,7350-023,Elvas,elvas,1.0,1.0
+Avenida de Sacadura Cabral,avenida sacadura cabral,,,,,0.5,0.5
+Rua Rogério Reynaud,rua rogerio reynaud,,,,,0.5,0.5
+Rua da Arribela,rua arribela,4485-920,4485-920,Vilar e Mosteiró,,1.0,0.75
+Avenida da Liberdade,avenida liberdade,7400-218,7400-218,Ponte de Sôr,ponte de sor,1.0,1.0
+Rua de Avis,rua avis,7460-120,7460-120,Fronteira,fronteira,1.0,1.0
+Rua Sérgio Vieira de Mello,rua sergio vieira mello,7005-401,7005-401,Évora,evora,1.0,1.0
+Rua Velha Ajuda,rua velha ajuda,9000-749,9000-749,Funchal,funchal,1.0,1.0
+,,7350-224,7350-224,Elvas,elvas,0.5,0.5
+Rua Conde Carvalhal,rua conde carvalhal,9060-012,9060-012,,,0.75,0.75
+Estrada Nacional 114,estrada nacional 114,2080-701,2080-701,Raposa,,1.0,0.75
+,,,,,,0.25,0.25
+Rua D Berta De Moura Teixeira Aguiar,rua d berta moura teixeira aguiar,9400-154,9400-154,,,0.75,0.75
+Rua Eng Adelino Amaro Da Costa,rua eng adelino amaro costa,9050-085,9050-085,,,0.75,0.75
+Rua José Francisco Beja,rua jose francisco beja,7540-194,7540-194,Santiago do Cacém,santiago do cacem,1.0,1.0
+Rua Cidade de São Paulo,rua cidade sao paulo,3020-458,3020-458,Coimbra,coimbra,1.0,1.0
+Rua Latino Coelho,rua latino coelho,,,,,0.5,0.5
+R. dos Jasmins,rua jasmins,2745-796,2745-796,Queluz,,0.75,0.5
+Largo 1º de Maio,largo 1º maio,7200-333,7200-333,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua Nova da Nora,rua nova nora,2140-136,2140-136,Chamusca,chamusca,1.0,1.0
+Avenida Tenente Coronel Melo Antunes,avenida tenente coronel melo antunes,2775,,Carcavelos,,1.0,0.5
+Rua do Infantário,rua infantario,3460-402,3460-402,Parada de Gonta,freixo de espada a cinta,0.75,0.75
+Caminho Velho Dos Reis Magos,caminho velho reis magos,9125-121,9125-121,,,0.75,0.75
+rua José Maria Rosário Guilherme,rua jose maria rosario guilherme,2540-516,2540-516,Pó,porto,0.75,0.75
+Rua dos Ramos,rua ramos,7000-605,7000-605,Évora,evora,1.0,1.0
+Beco Figueira,beco figueira,9300-055,9300-055,Câmara de Lobos,camara de lobos,1.0,1.0
+,,2080-187,2080-187,Almeirim,almeirim,0.75,0.75
+Vereda Eira Velha,vereda eira velha,9135-030,9135-030,,,0.75,0.75
+Rua Ria de Aveiro,rua ria aveiro,,,,,0.5,0.5
+Travessa da Viola,travessa viola,7000-947,7000-947,Évora,evora,1.0,1.0
+Rua Dom Afonso Henriques,rua dom afonso henriques,3700-027,3700-027,São João da Madeira,sao joao da madeira,1.0,1.0
+Rua da Rechousa,rua rechousa,4405-285,4405-285,Canelas,,1.0,0.75
+Rua S Pedro,rua s pedro,9300-119,9300-119,Câmara de Lobos,camara de lobos,0.75,0.75
+Rua Gonçalves Zarco,rua goncalves zarco,,,,,0.5,0.5
+Rua do Meio a Lapa,rua meio lapa,,,Lisboa,lisboa,0.5,0.5
+R Esposendes,rua esposendes,4625-672,4625-672,Vila Boa Do Bispo,vila do bispo,0.75,0.75
+Largo da Codiceira,largo codiceira,4445-070,4445-070,Alfena,,1.0,0.75
+Rua das Saragoças,rua saragocas,7400-457,7400-457,Rosmaninhal,,1.0,0.75
+Praça da República,praca republica,7300-109,7300-109,Portalegre,portalegre,1.0,1.0
+Caminho Lombo Dos Ganchos,caminho lombo ganchos,9325-173,9325-173,Câmara de Lobos,camara de lobos,1.0,1.0
+Urb. Moinho da Canastra,urbano moinho canastra,2510-145,2510-145,Pinhal,,1.0,0.75
+Rua Vasco da Gama,rua vasco gama,,,,,0.25,0.25
+Avenida Luís Bívar,avenida luis bivar,,,,,0.5,0.5
+Rua Combatentes do Ultramar,rua combatentes ultramar,7150-124,7150-124,Borba,borba,1.0,1.0
+Avenida da Barrinha,avenida barrinha,,,,,0.5,0.5
+Rua Josefa de Óbidos,rua josefa obidos,,,,,0.5,0.5
+Calçada do Espírito Santo,calcada espirito santo,3000-458,3000-458,Coimbra,coimbra,1.0,1.0
+,,5090-137,5090-137,,,0.5,0.5
+Rua Engenheiro Amaro da Costa,rua engenheiro amaro costa,7630-536,7630-536,São Martinho das Amoreiras,sao roque do pico,0.75,0.75
+Rua Cidade de Coimbra,rua cidade coimbra,,,Pontinha e Famões,,0.5,0.25
+Rua de São Lourenço,rua sao lourenco,7220-301,7220-301,Oriola,,1.0,0.75
+Caminho Cabeço Dos Lombos,caminho cabeco lombos,9050-467,9050-467,,,0.75,0.75
+Rua do Algarve,rua algarve,7800-641,7800-641,Mombeja,beja,1.0,1.0
+Rua Cmdt Camacho De Freitas,rua cmdt camacho freitas,9350-150,9350-150,,,0.5,0.5
+Rua de Cacine,rua cacine,2845-074,2845-074,Cruz de Pau,macedo de cavaleiros,1.0,1.0
+Alameda da Europa,alameda europa,6200-505,6200-505,Covilhã,covilha,1.0,1.0
+Caminho Amparo,caminho amparo,9000-248,9000-248,,,0.5,0.5
+Rua do Sado,rua sado,7900-395,7900-395,Odivelas,odivelas,1.0,1.0
+Avenida João de Deus,avenida joao deus,2870-158,2870-158,Montijo,montijo,0.75,0.75
+Largo Doutor António Alves Costa,largo doutor antonio alves costa,6050-047,6050-047,Alpalhão,,1.0,0.75
+Rua Pereira e Sousa,rua pereira sousa,1350-237,1350-237,Lisboa,lisboa,1.0,1.0
+Estrada Nicolau Tolentino Vieira,estrada nicolau tolentino vieira,9200-157,9200-157,,,0.75,0.75
+Rua de Marcos Marreiros,rua marcos marreiros,,,,,0.5,0.5
+Rua 5 de Outubro,rua 5 outubro,7005-763,7005-763,São Miguel de Machede,ponte de lima,1.0,1.0
+Avenida Dom João VI,avenida dom joao vi,8700-137,8700-137,Olhão,olhao,1.0,1.0
+Rua Dr Pita,rua dr pita,9000-089,9000-089,,,0.75,0.75
+Rua 1º de Abril,rua 1º abril,7600-050,7600-050,Aljustrel,aljustrel,1.0,1.0
+Rua Serafim Coelho,rua serafim coelho,7665-881,7665-881,Pereiras-Gare,,1.0,0.75
+Rua Diana de Liz,rua diana liz,7005-413,7005-413,Évora,evora,1.0,1.0
+,,,,,,0.25,0.25
+,,,,MEM MARTINS,,0.25,0.0
+Rua da Meia Légua,rua meia legua,,,,,0.5,0.5
+Travessa Arneiro dos Outeirinhos,travessa arneiro outeirinhos,2140-664,2140-664,Carregueira,,1.0,0.75
+Rua D João,rua d joao,9050-048,9050-048,,,0.75,0.75
+Travessa do Parque,travessa parque,7540-321,7540-321,São Bartolomeu da Serra,ponte da barca,1.0,1.0
+Rua Bartolomeu Dias,rua bartolomeu dias,,,,,0.5,0.5
+Calçada 24 de Julho,calcada 24 julho,3000-412,3000-412,Coimbra,coimbra,1.0,1.0
+Rua Rossio do Meio,rua rossio meio,7350-135,7350-135,Elvas,elvas,1.0,1.0
+Praceta 25 De Abril,praceta 25 abril,9200-084,9200-084,,,0.5,0.5
+,,,,,,0.0,0.0
+,,,,,,0.0,0.0
+Rua Aguio,rua aguio,7830-346,7830-346,Serpa,serpa,1.0,1.0
+R Eng Duarte Pacheco,rua eng duarte pacheco,4575-339,4575-339,Torrão Mcn,,1.0,0.75
+Rua Pereiras,rua pereiras,6320-561,6320-561,,,0.75,0.75
+Couraça de Lisboa,couraca lisboa,,,,,0.5,0.5
+Urbanização Casas de São Pedro,urbanizacao casas sao pedro,7200-131,7200-131,São Pedro do Corval,ponta do sol,1.0,1.0
+Rua Vale Da Vinha,rua vale vinha,4630-533,4630-533,Maureles,,1.0,0.75
+Avenida 25 de Abril,avenida 25 abril,7150-109,7150-109,Borba,borba,1.0,1.0
+,,,,,,0.25,0.25
+Caminho da Missa,caminho missa,8800-116,8800-116,Luz de Tavira,tavira,1.0,1.0
+Estrada Monumental,estrada monumental,9000-100,9000-100,,,0.75,0.75
+Rua Mouzinho de Albuquerque,rua mouzinho albuquerque,7320-133,7320-133,Castelo de Vide,castelo de vide,1.0,1.0
+Rua Lombadinha,rua lombadinha,9385-235,9385-235,Calheta,calheta madeira,1.0,1.0
+Rua da Fonte,rua fonte,7220-568,7220-568,Vera Cruz,santa cruz da graciosa,1.0,1.0
+Rua Ananias Grosso,rua ananias grosso,7595-036,7595-036,Rio de Moinhos,reguengos de monsaraz,1.0,1.0
+Rua de Ourique,rua ourique,7780-030,7780-030,Ourique Gare,ourique,1.0,1.0
+Rua Igreja Nova,rua igreja nova,9200-032,9200-032,,,0.75,0.75
+Estrada Garajau,estrada garajau,9125-252,9125-252,,,0.5,0.5
+Rua das Parreiras,rua parreiras,7800-641,7800-641,Mombeja,beja,1.0,1.0
+Rua Nossa Senhora da Luz,rua nossa senhora luz,7200-042,7200-042,Vendinha,,1.0,0.75
+Travessa do Cabo da Carreira,travessa cabo carreira,3870-017,3870-017,Bunheiro,,1.0,0.75
+Rua Dona Maria Elisa da Silva Queimado,rua dona maria elisa silva queimado,7170-053,7170-053,Redondo,redondo,1.0,1.0
+Rua 5 de Outubro,rua 5 outubro,7150-100,7150-100,Borba,borba,1.0,1.0
+Avenida Senhora Monte da Saúde,avenida senhora monte saude,,,Cascais e Estoril,cascais,0.75,0.75
+Rua do Moinho de Vento,rua moinho vento,2230-052,2230-052,Santiago de Montalegre,montalegre,1.0,1.0
+Rua António Pedro,rua antonio pedro,,,,,0.5,0.5
+Travessa Chão da Lage,travessa chao lage,6320-181,6320-181,,,0.75,0.75
+Praça 1º Maio,praca 1º maio,7000-650,7000-650,Évora,evora,1.0,1.0
+Rua do Campo de Tiro,rua campo tiro,7800-256,7800-256,,,0.75,0.75
+,,,,,,0.25,0.25
+Rua da Sardoa,rua sardoa,7670-132,7670-132,Garvão,,1.0,0.75
+Avenida Dom João II,avenida dom joao ii,1990-083,1990-083,Lisboa,lisboa,0.75,0.75
+Caminho Santo António,caminho santo antonio,9020-001,9020-001,Funchal,funchal,1.0,1.0
+Rua do Lapadusso,rua lapadusso,2520-370,2520-370,Peniche,peniche,1.0,1.0
+Rua da Liberdade,rua liberdade,7450-227,7450-227,Santo Aleixo,vila real de santo antonio,1.0,1.0
+Estrada Nacional 125,estrada nacional 125,8800-108,8800-108,Luz de Tavira,tavira,1.0,1.0
+Rua Nelson de Barros,rua nelson barros,,,,,0.5,0.5
+Rua Dom Dinis,rua dom dinis,4760-485,4760-485,Fradelos,,1.0,0.75
+Caminho Mantilha,caminho mantilha,9360-549,9360-549,,,0.75,0.75
+Praça da Restauração,praca restauracao,7875-150,7875-150,Santo Aleixo da Restauração,porto santo,1.0,1.0
+Rua Jasmineiro,rua jasmineiro,9000-013,9000-013,,,0.75,0.75
+Caminho Lombo,caminho lombo,9300-273,9300-273,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua das Flores,rua flores,7350-071,7350-071,Elvas,elvas,1.0,1.0
+,,9125-103,9125-103,,,0.5,0.5
+Rua Parque Natural do Alvão,rua parque natural alvao,,,,,0.5,0.5
+Travessa do Diabinho,travessa diabinho,7000-957,7000-957,Évora,evora,1.0,1.0
+Rua do Sol,rua sol,,,Porto,porto,0.75,0.75
+Rua José Pompeu Aroso,rua jose pompeu aroso,3040-378,3040-378,Coimbra,coimbra,1.0,1.0
+Rua Gonçalves Zarco,rua goncalves zarco,9125-068,9125-068,,,0.5,0.5
+Rua do Guarda-Mor,rua guarda-mor,,,Lisboa,lisboa,0.5,0.5
+Rua Direita,rua direita,7200-175,7200-175,Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua da Saibreira,rua saibreira,,,,,0.5,0.5
+Lg Conde De Ariz,largo conde ariz,4625-005,4625-005,Ariz Mcn,,1.0,0.75
+Largo de Santana,largo santana,3000-360,3000-360,Coimbra,coimbra,1.0,1.0
+Avenida do Movimento das Forças Armadas,avenida movimento forcas armadas,2825-370,2825-370,Costa da Caparica,,1.0,0.75
+Rua Sarmento Beires,rua sarmento beires,7630-173,7630-173,Odemira,odemira,1.0,1.0
+,,,,,,0.25,0.25
+Rua das Courelas,rua courelas,7000-202,7000-202,São Sebastião da Giesteira,sao roque do pico,1.0,1.0
+Plaza de la Constitución,plaza la constitucion,37480,,Fuentes de Oñoro,freixo de espada a cinta,1.0,0.75
+Rua Doutor Francisco António Diniz,rua doutor francisco antonio diniz,3080-157,3080-157,Figueira da Foz,figueira da foz,1.0,1.0
+Travessa da República Popular de Moçambique,travessa republica popular mocambique,2725-431,2725-431,MEM MARTINS,,1.0,0.75
+Rua Comandante Fragoso,rua comandante fragoso,7050-163,7050-163,Montemor-o-Novo,montemor-o-novo,1.0,1.0
+,,7050-324,7050-324,Montemor-o-Novo,montemor-o-novo,0.5,0.5
+Rua Capitão Jorge Ribeiro,rua capitao jorge ribeiro,8800-544,8800-544,Santa Luzia,santa maria da feira,1.0,1.0
+,,5040-304,5040-304,,,0.5,0.5
+Rua 18 de Maio,rua 18 maio,,,,,0.5,0.5
+Rua das Escolas,rua escolas,7800-819,7800-819,Beringel,,1.0,0.75
+Avenida do Emigrante,avenida emigrante,,,,,0.5,0.5
+,,8800-063,8800-063,Conceição,,0.75,0.5
+Praceta Henrique Joaquim da Costa,praceta henrique joaquim costa,,,Évora,evora,0.5,0.5
+Praça Republica,praca republica,7885-023,7885-023,Amareleja,,1.0,0.75
+Rua de Faro,rua faro,8700-409,8700-409,Olhão,olhao,1.0,1.0
+Rua 9 - Bairro da Boavista,rua 9 - bairro boavista,,,Lisboa,lisboa,0.75,0.75
+Rua Teixeira Gomes,rua teixeira gomes,7800-631,7800-631,Cabeça Gorda,,1.0,0.75
+Rua Infante Dom Henrique,rua infante dom henrique,7800-318,7800-318,,,0.75,0.75
+Rua Dr. Teotónio Machado Pires,rua dr. teotonio machado pires,,,São Bartolomeu de Regatos,ponte de lima,0.75,0.75
+Praceta de Macau,praceta macau,7370-023,7370-023,Campo Maior,campo maior,1.0,1.0
+Rua de São Bento,rua sao bento,,,,,0.5,0.5
+Rua Rita Pereira de Matos,rua rita pereira matos,7570-347,7570-347,Grândola,grandola,1.0,1.0
+Avenida da Liberdade,avenida liberdade,2080-013,2080-013,Almeirim,almeirim,1.0,1.0
+Rua da Azinhaga,rua azinhaga,7570-779,7570-779,Carvalhal,,1.0,0.75
+Largo da Porta Nova,largo porta nova,4750-329,4750-329,Barcelos,barcelos,0.75,0.75
+Rua Estrada Nacional 15,rua estrada nacional 15,5000-363,5000-363,Vila Real,vila real,1.0,1.0
+Rua Soeiro Pereira Gomes,rua soeiro pereira gomes,7565-070,7565-070,Alvalade,,1.0,0.75
+Rua das Camarinheiras,rua camarinheiras,7520-308,7520-308,Sines,sines,1.0,1.0
+,,9400-166,9400-166,,,0.5,0.5
+Estrada Cabeco Do Carvalho,estrada cabeco carvalho,9400-230,9400-230,,,0.75,0.75
+Rua das Flores,rua flores,6040-054,6040-054,Degracia Fundeira,,1.0,0.75
+Rua de Furamontes,rua furamontes,4300-228,4300-228,Porto,porto,1.0,1.0
+Rua 5 de Outubro,rua 5 outubro,7960-424,7960-424,Vila de Frades,reguengos de monsaraz,1.0,1.0
+Bairro Luís de Camões,bairro luis camoes,6050-383,6050-383,Nisa,nisa,1.0,1.0
+Rua Professor João Barreira,rua professor joao barreira,1600-635,1600-635,Lisboa,lisboa,1.0,1.0
+Quinta da Palmeira,quinta palmeira,,,,,0.25,0.25
+Rua da Saudade,rua saudade,7900-388,7900-388,Odivelas,odivelas,1.0,1.0
+,,7005-774,7005-774,Torre de Coelheiros,porto de mos,0.5,0.5
+Rua H,rua h,7520-309,7520-309,Sines,sines,1.0,1.0
+Loteamento Chão Do Mocho,loteamento chao mocho,7090-099,7090-099,Alcaçovas,,1.0,0.75
+Caminho Verde,caminho verde,9370-729,9370-729,Calheta,calheta madeira,1.0,1.0
+Avenida Barbosa du Bocage,avenida barbosa du bocage,,,Lisboa,lisboa,0.75,0.75
+Rue Purmeiro de Maio,rue purmeiro maio,,,,,0.5,0.5
+Avenida de Infante de Sagres,avenida infante sagres,,,,,0.5,0.5
+Cc Pombal,cc pombal,4635-732,4635-732,Vila Boa De Quires,vila verde,1.0,1.0
+Travessa Transval,travessa transval,9060-318,9060-318,,,0.75,0.75
+Rua Lopes,rua lopes,,,,,0.25,0.25
+Rua Vale Maria,rua vale maria,4760-709,4760-709,Ribeirão,,1.0,0.75
+Rua 25 de Abril,rua 25 abril,7570-344,7570-344,Bairro das Amoreiras,,1.0,0.75
+Rua General Humberto Delgado,rua general humberto delgado,7220-422,7220-422,Portel,portel,1.0,1.0
+Rua das Leiras,rua leiras,4445-492,4445-492,Ermesinde,,0.75,0.5
+Rua Pedro Álvares Cabral,rua pedro alvares cabral,3030-069,3030-069,Coimbra,coimbra,1.0,1.0
+Rua Penedinho,rua penedinho,,,,,0.5,0.5
+Travessa de Santo António,travessa santo antonio,8800-704,8800-704,Tavira,tavira,1.0,1.0
+Rua Sta Teresa,rua sta teresa,9360-310,9360-310,,,0.75,0.75
+Rua da Ponte Forte,rua ponte forte,2040-022,2040-022,Alcobertas,,1.0,0.75
+Bairro Oriental,bairro oriental,7565-258,7565-258,Ermidas-Sado,,1.0,0.75
+Rua da Alegria,rua alegria,7200-179,7200-179,Outeiro,,1.0,0.75
+Av Carvalheira,avenida carvalheira,4625-146,4625-146,Magrelos,,1.0,0.75
+Rua da Estação Velha,rua estacao velha,8900,,Vila Real de Santo António,vila real de santo antonio,1.0,0.75
+Estrada da Circunvalação,estrada circunvalacao,7470-210,7470-210,Sousel,sousel,1.0,1.0
+Avenida D Manuel i,avenida d manuel i,9370-135,9370-135,Calheta,calheta madeira,1.0,1.0
+Rua G3,rua g3,2080-222,2080-222,Almeirim,almeirim,1.0,1.0
+Rua Doutor Gonçalo Pessanha,rua doutor goncalo pessanha,8800-564,8800-564,Santa Luzia,santa maria da feira,1.0,1.0
+Avenida Dom Manuel II,avenida dom manuel ii,4570-334,4570-334,Cidade da Maia,maia,1.0,1.0
+Estrada Domingo D'Ornelas 68,estrada domingo dornelas 68,9400-010,9400-010,,,0.75,0.75
+Caminho S Roque,caminho s roque,9020-122,9020-122,,,0.75,0.75
+Avenida 3 de Julho,avenida 3 julho,4760-713,4760-713,Ribeirão,,1.0,0.75
+Rua das Courelas,rua courelas,9900-361,9900-361,Feteira,,1.0,0.75
+Travessa Emigrantes,travessa emigrantes,9125-059,9125-059,,,0.75,0.75
+Estrada Regional 222,estrada regional 222,9370-611,9370-611,Calheta,calheta madeira,1.0,1.0
+Rua de Vaiamonte,rua vaiamonte,7450-160,7450-160,Monforte,monforte,1.0,1.0
+Rua Selvajeira,rua selvajeira,9400-196,9400-196,,,0.75,0.75
+Caminho S João Latrao,caminho s joao latrao,9060-297,9060-297,,,0.75,0.75
+Rua do Tojal,rua tojal,7500-200,7500-200,Vila Nova de Santo André,vila verde,1.0,1.0
+Rua Dom Pedro V,rua dom pedro v,8900,,Vila Real de Santo António,vila real de santo antonio,1.0,0.75
+Rua Principal,rua principal,7200-012,7200-012,Pias,,1.0,0.75
+Rua do Pinheiro,rua pinheiro,7600-401,7600-401,São João de Negrilhos,ponte de lima,1.0,1.0
+Travessa do Inverno,travessa inverno,7200-148,7200-148,São Pedro do Corval,ponta do sol,1.0,1.0
+Cc Cachorrela,cc cachorrela,4575-003,4575-003,Alpendurada E Matos,,1.0,0.75
+Caminho do Mar,caminho mar,3870-303,3870-303,Torreira,,1.0,0.75
+Rua Vessadas,rua vessadas,3870-033,3870-033,Bunheiro,,1.0,0.75
+Rua Doutor Serafim Correia Pinto Guimarães,rua doutor serafim correia pinto guimaraes,4520-139,4520-139,Santa Maria da Feira,santa maria da feira,0.75,0.75
+Largo Francisco Maria Borges,largo francisco maria borges,2660-161,2660-161,Santo Antão do Tojal,porto santo,1.0,1.0
+Rua Miguel Fernandes,rua miguel fernandes,7800-361,7800-361,Penedo Gordo,,1.0,0.75
+Rua Doutor Alfredo Valente da Silva Terra,rua doutor alfredo valente silva terra,,,,,0.5,0.5
+Rua Batalha de Ourique,rua batalha ourique,7670-261,7670-261,Ourique,ourique,1.0,1.0
+R Tapadas,rua tapadas,4575-051,4575-051,Alpendurada E Matos,,0.75,0.5
+Rua 25 de Abril,rua 25 abril,7005-126,7005-126,Azaruja,,1.0,0.75
+Rua Direita,rua direita,7100-535,7100-535,Estremoz,estremoz,1.0,1.0
+Rua da Lameira da Ponte,rua lameira ponte,5000-742,5000-742,Vila Real,vila real,1.0,1.0
+Praceta do Brasil,praceta brasil,7200-479,7200-479,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua do Alecrim,rua alecrim,7300-552,7300-552,Portalegre,portalegre,1.0,1.0
+,,7470-154,7470-154,Vale do Freixo,freixo de espada a cinta,0.5,0.5
+Rua de Angola,rua angola,2080-092,2080-092,Almeirim,almeirim,1.0,1.0
+Largo Heliodoro Salgado,largo heliodoro salgado,6050-342,6050-342,Nisa,nisa,1.0,1.0
+Rua Elias Garcia,rua elias garcia,2700-322,2700-322,Amadora,amadora,1.0,1.0
+Estrada Luzirao,estrada luzirao,9325-138,9325-138,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua Seno e Toscano,rua seno toscano,2140-405,2140-405,Vale de Cavalos,freixo de espada a cinta,1.0,1.0
+Rua da Juventude,rua juventude,7005-364,7005-364,Évora,evora,1.0,1.0
+Campo da Feira,campo feira,2080-034,2080-034,Almeirim,almeirim,1.0,1.0
+Estrada Lugar Da Serra,estrada lugar serra,9350-034,9350-034,,,0.75,0.75
+Rua do Telheiro,rua telheiro,7800-601,7800-601,Albernoa,,1.0,0.75
+Rua General Humberto Delgado,rua general humberto delgado,7830-521,7830-521,Vale de Vargo,macedo de cavaleiros,1.0,1.0
+Rua do Temido,rua temido,,,,,0.5,0.5
+Avenida da Ribeira das Naus,avenida ribeira naus,,,Lisboa,lisboa,0.5,0.5
+,,7830-286,7830-286,Pias,,0.5,0.25
+Beco 1º de Maio,beco 1º maio,7540-321,7540-321,São Bartolomeu da Serra,ponte da barca,1.0,1.0
+,,,,,,0.25,0.25
+Caminho Achada Pátio Da Achada,caminho achada patio achada,9000-208,9000-208,Funchal,funchal,1.0,1.0
+EN 249-4,en 249-4,,,Abóboda,,0.5,0.25
+Rua da Liberdade,rua liberdade,7830-513,7830-513,Vale de Vargo,macedo de cavaleiros,1.0,1.0
+Travessa Almirante Gago Coutinho,travessa almirante gago coutinho,2500-268,2500-268,,,0.75,0.75
+Rua Panama,rua panama,9000-126,9000-126,Funchal,funchal,0.75,0.75
+Beco Amoreira,beco amoreira,9000-086,9000-086,,,0.75,0.75
+Rua do Brasil,rua brasil,7400-247,7400-247,Ponte de Sôr,ponte de sor,1.0,1.0
+Largo do Adro,largo adro,6050-012,6050-012,Alpalhão,,1.0,0.75
+Rua D Alice Valadas Mendes,rua d alice valadas mendes,7800-721,7800-721,Santa Clara de Louredo,ponte de lima,1.0,1.0
+Rua Sebastião Manuel Coelho,rua sebastiao manuel coelho,8700-207,8700-207,Olhão,olhao,1.0,1.0
+Lugar de Crasto,lugar crasto,4990-909,4990-909,Ponte de Lima,ponte de lima,0.75,0.75
+,,,,,,0.25,0.25
+Rua General Torres,rua general torres,,,,,0.5,0.5
+Rua António Maria Casquinha,rua antonio maria casquinha,7090-410,7090-410,Aguiar,vila pouca de aguiar,1.0,1.0
+Rua António Variações,rua antonio variacoes,,,,,0.5,0.5
+Beco Valinhos,beco valinhos,7830-628,7830-628,Vila Verde de Ficalho,vila verde,1.0,1.0
+Rua Doutor Fialho de Almeida,rua doutor fialho almeida,4700-123,4700-123,Braga,braga,1.0,1.0
+,,7540-515,7540-515,São Francisco da Serra,ponte da barca,0.5,0.5
+Estrada Monumental,estrada monumental,9004-568,9004-568,Funchal,funchal,1.0,1.0
+Rua Dona Maria Batista,rua dona maria batista,2910-598,2910-598,Setúbal,setubal,1.0,1.0
+,,,,Lisboa,lisboa,0.25,0.25
+Rua Doutor Guilherme Centazzi,rua doutor guilherme centazzi,,,,,0.25,0.25
+Estrada Municipal,estrada municipal,6320-523,6320-523,,,0.75,0.75
+Rua Almirante Cândido dos Reis,rua almirante candido reis,7800-445,7800-445,,,0.75,0.75
+Avenida Infante Dom Henrique,avenida infante dom henrique,6320-318,6320-318,,,0.75,0.75
+Rua General Humberto Delgado,rua general humberto delgado,2080-391,2080-391,Corticóis,,1.0,0.75
+Rua Engenheiro José Frederico Ulrich,rua engenheiro jose frederico ulrich,7005-117,7005-117,Azaruja,,1.0,0.75
+Rua das Flores,rua flores,3000-442,3000-442,Coimbra,coimbra,1.0,1.0
+Rua de Santo Ovídio,rua santo ovidio,,,,,0.5,0.5
+Caminho Laranjal,caminho laranjal,9020-091,9020-091,,,0.75,0.75
+Rua Doutor Armindo Ramos,rua doutor armindo ramos,,,,,0.25,0.25
+Rua António Santos,rua antonio santos,8700-147,8700-147,Olhão,olhao,1.0,1.0
+Caminho Santo António,caminho santo antonio,9020-001,9020-001,,,0.75,0.75
+Travessa de Santa Quitéria,travessa santa quiteria,,,Lisboa,lisboa,0.75,0.75
+Rua Fonte das Lágrimas,rua fonte lagrimas,4760-718,4760-718,Ribeirão,,1.0,0.75
+,,,,,,0.25,0.25
+Rua Nova das Areias,rua nova areias,4300-362,4300-362,Porto,porto,1.0,1.0
+Rua Lourenço Chaves de Almeida,rua lourenco chaves almeida,3034-001,3034-001,Coimbra,coimbra,1.0,1.0
+Rua Cravos,rua cravos,,,,,0.5,0.5
+Rua Engenheiro Canto Resende,rua engenheiro canto resende,3030-045,3030-045,Coimbra,coimbra,1.0,1.0
+Avenida dos Estados Unidos da América,avenida estados unidos america,,,,,0.5,0.5
+Rua de Lisboa,rua lisboa,7200-289,7200-289,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+,,7960-178,7960-178,Selmes,,0.5,0.25
+Rua 1º de Maio,rua 1º maio,6050-339,6050-339,Nisa,nisa,1.0,1.0
+Rua Professor Alfredo Reis,rua professor alfredo reis,7005-585,7005-585,Évora,evora,1.0,1.0
+Rua Maria Auxiliadora,rua maria auxiliadora,7005-552,7005-552,Évora,evora,1.0,1.0
+Rua Achada,rua achada,9325-017,9325-017,Câmara de Lobos,camara de lobos,1.0,1.0
+Travessa Francisco Furtado,travessa francisco furtado,7005-710,7005-710,Nossa Senhora de Machede,ponte de lima,1.0,1.0
+Rua Quatro Irmãos,rua quatro irmaos,4635-737,4635-737,Vila Boa De Quires,vila verde,1.0,1.0
+Rua Professora Carolina Amália,rua professora carolina amalia,2040-207,2040-207,Rio Maior,rio maior,1.0,1.0
+Rua das Cruzes,rua cruzes,7885-261,7885-261,Póvoa de São Miguel,porto de mos,1.0,1.0
+,,9000-602,9000-602,Funchal,funchal,0.75,0.75
+Rua António Vaz Tecedeiro,rua antonio vaz tecedeiro,2140-675,2140-675,Carregueira,,1.0,0.75
+Rua 1 De Maio,rua 1 maio,4630-228,4630-228,Marco De Canaveses,marco de canaveses,1.0,1.0
+Rua António Sérgio,rua antonio sergio,,,Beja,beja,0.75,0.75
+Estrada Regional 102,estrada regional 102,9135-425,9135-425,,,0.75,0.75
+Rua António Salvador Marques,rua antonio salvador marques,7160-076,7160-076,Bencatel,,1.0,0.75
+Rua Alexandre Herculano,rua alexandre herculano,8365-204,8365-204,Pêra,castanheira de pera,0.75,0.75
+Avenida do Mar,avenida mar,,,Belverde,,0.5,0.25
+Rua de Raul Brandão,rua raul brandao,7800-255,7800-255,Beja,beja,1.0,1.0
+Rua B,rua b,7340-041,7340-041,Arronches,arronches,1.0,1.0
+,,,,,,0.25,0.25
+Rua Almirante Reis,rua almirante reis,8700-366,8700-366,Olhão,olhao,1.0,1.0
+Rua da Vista Alegre,rua vista alegre,7600-401,7600-401,São João de Negrilhos,ponte de lima,1.0,1.0
+Caminho Pilar,caminho pilar,9000-309,9000-309,,,0.75,0.75
+Rua de Almodôvar,rua almodovar,7670-270,7670-270,Ourique,ourique,1.0,1.0
+Rua dos Muros,rua muros,7480-137,7480-137,Avis,avis,1.0,1.0
+Rua de Dona Estefânia,rua dona estefania,1000-153,1000-153,,,0.75,0.75
+,,,,,,0.25,0.25
+Rua Pedro Reinold s,rua pedro reinold s,9400-239,9400-239,,,0.75,0.75
+Rua de Palhais,rua palhais,6050-104,6050-104,Amieira do Tejo,,1.0,0.75
+,,,,Santiago de Besteiros,ponte de lima,0.25,0.25
+Rua 25 de Abril,rua 25 abril,7600-208,7600-208,Ervidel,,1.0,0.75
+Rua os Três Pastorinhos,rua tres pastorinhos,,,,,0.5,0.5
+Rua Ivens,rua ivens,,,,,0.5,0.5
+Rua de Arouche,rua arouche,7860-151,7860-151,Moura,moura,1.0,1.0
+Urbanização Casas de São Pedro,urbanizacao casas sao pedro,7200-131,7200-131,São Pedro do Corval,ponta do sol,1.0,1.0
+Rua António Maria de Oliveira,rua antonio maria oliveira,2520-288,2520-288,Peniche,peniche,1.0,1.0
+,,,,,,0.0,0.0
+Rua Major Cabral Quadros,rua major cabral quadros,2040-362,2040-362,Rio Maior,rio maior,1.0,1.0
+Rua Conego Dr Jorge De Freitas Apartamentos Serra Do Castelo,rua conego dr jorge freitas apartamentos serra castelo,9125-004,9125-004,,,0.5,0.5
+Rua Alves Redol,rua alves redol,7050-150,7050-150,Montemor-o-Novo,montemor-o-novo,1.0,1.0
+Rua do Poço,rua poco,,,Vendas de Azeitão,vila de rei,0.75,0.75
+Rua Guerra Junqueiro,rua guerra junqueiro,7900-645,7900-645,Ferreira do Alentejo,ferreira do alentejo,1.0,1.0
+Vereda Afonsos,vereda afonsos,9325-181,9325-181,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua Salvador da Bahía,rua salvador bahia,2910-833,2910-833,Setúbal,setubal,1.0,1.0
+Rua 5 de Outubro de 1910,rua 5 outubro 1910,7565-101,7565-101,Mimosa,,1.0,0.75
+Rua Doutor Bento de Jesus Caraça,rua doutor bento jesus caraca,7200-051,7200-051,Aldeias de Montoito,porto de mos,1.0,1.0
+Rua Nova Levada Cavalo,rua nova levada cavalo,9000-721,9000-721,Funchal,funchal,1.0,1.0
+Rua Doutor Bento de Jesus Caraça,rua doutor bento jesus caraca,7200-051,7200-051,Aldeias de Montoito,porto de mos,1.0,1.0
+Praça da Igreja,praca igreja,2700-458,2700-458,Amadora,amadora,1.0,1.0
+Rua Doutor Garcia Peres,rua doutor garcia peres,7860-176,7860-176,Moura,moura,1.0,1.0
+Rua Barreiro da Mata,rua barreiro mata,7300-301,7300-301,Alagoa,,1.0,0.75
+Rua Agostinho Lopes da Costa,rua agostinho lopes costa,,,,,0.5,0.5
+Rua da Escola,rua escola,7490-071,7490-071,Cabeção,,1.0,0.75
+Rua da Madeira,rua madeira,4470-327,4470-327,Maia,maia,1.0,1.0
+Rua do Mosteiro,rua mosteiro,,,,,0.5,0.5
+Rua da Reforma Agrária,rua reforma agraria,7490-430,7490-430,Pavia,,1.0,0.75
+Rua João de Deus,rua joao deus,7600-138,7600-138,Aljustrel,aljustrel,1.0,1.0
+Estrada Cmdt Camacho Freitas-casa 2,estrada cmdt camacho freitas-casa 2,9020-148,9020-148,,,0.75,0.75
+Lugar de Cruzinhas,lugar cruzinhas,4740-684 BARQUEIROS - BARCELOS,4740-684,,,0.5,0.5
+Rua da Vitória,rua vitoria,,,Lisboa,lisboa,0.75,0.75
+Rua Dragoal,rua dragoal,9400-045,9400-045,,,0.5,0.5
+Rua Mário de Almeida,rua mario almeida,,,,,0.5,0.5
+Rua João de Deus,rua joao deus,8950-130,8950-130,Castro Marim,castro marim,1.0,1.0
+Rua da Estrada Romana,rua estrada romana,,,,,0.5,0.5
+Beco da Regueirinha,beco regueirinha,3870-199,3870-199,Murtosa,murtosa,1.0,1.0
+Rua da Igreja,rua igreja,7875-161,7875-161,Santo Aleixo da Restauração,porto santo,1.0,1.0
+Rua Camilo Castelo Branco Flora Park,rua camilo castelo branco flora park,9125-126,9125-126,,,0.75,0.75
+Rua das Parreiras,rua parreiras,7300-668,7300-668,Fortios,,1.0,0.75
+Rua da Esperança à Comenda,rua esperanca comenda,7005-810,7005-810,Évora,evora,1.0,1.0
+Travessa das Damas,travessa damas,7000-551,7000-551,Évora,evora,1.0,1.0
+Caminho Torrinha,caminho torrinha,9050-293,9050-293,,,0.75,0.75
+Caminho de Santo António,caminho santo antonio,,,,,0.5,0.5
+Rua Cruzeiro,rua cruzeiro,6250-181,6250-181,,,0.75,0.75
+Carreira de Cima,carreira cima,7040-035,7040-035,Arraiolos,arraiolos,1.0,1.0
+Rua Cidade Maui,rua cidade maui,9060-067,9060-067,,,0.75,0.75
+Rua António Alberto Ferreira Franco,rua antonio alberto ferreira franco,7480-102,7480-102,Avis,avis,1.0,1.0
+Rua Jornal Correio da Feira,rua jornal correio feira,,,,,0.5,0.5
+Rua da Estalagem,rua estalagem,7900-029,7900-029,Alfundão,fundao,1.0,1.0
+Rua Dom Afonso Paes,rua dom afonso paes,6040-024,6040-024,Belver,,1.0,0.75
+Estrada Regional 222,estrada regional 222,9360-388,9360-388,,,0.75,0.75
+Vereda Fábrica,vereda fabrica,9370-048,9370-048,Calheta,calheta madeira,1.0,1.0
+Rua António Procoro Macedo Junior,rua antonio procoro macedo junior,9325-018,9325-018,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua Sacadura Cabral,rua sacadura cabral,7170-122,7170-122,Redondo,redondo,1.0,1.0
+Rua Major Neutel de Abreu,rua major neutel abreu,1500-409,1500-409,Lisboa,lisboa,1.0,1.0
+Rua dos Tanques,rua tanques,7200-175,7200-175,Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua dos Combatentes da Grande Guerra,rua combatentes grande guerra,3000-293,3000-293,Coimbra,coimbra,1.0,1.0
+Rua Bento Gonçalves,rua bento goncalves,,,Charneca de Caparica e Sobreda,macedo de cavaleiros,0.75,0.75
+Estrada João Gonçalves Zarco,estrada joao goncalves zarco,9125-018,9125-018,,,0.5,0.5
+Rua Direita,rua direita,7570-629,7570-629,Melides,,1.0,0.75
+Rua dos Açores,rua acores,2080-115,2080-115,Almeirim,almeirim,1.0,1.0
+Bairro de Beringuel,bairro beringuel,7430-116,7430-116,Crato,crato,1.0,1.0
+Caminho Conjunto Habitacional Da Bemposta,caminho conjunto habitacional bemposta,9200-230,9200-230,,,0.75,0.75
+Avenida de Fernão de Magalhães,avenida fernao magalhaes,,,,,0.5,0.5
+R Oleiros,rua oleiros,4625-090,4625-090,Favões,,1.0,0.75
+Rua Doutor José Cervieira Lebre,rua doutor jose cervieira lebre,,,Mealhada,mealhada,0.75,0.75
+,,,,,,0.25,0.25
+Rua António Menano,rua antonio menano,2620-536,2620-536,Ramada,,1.0,0.75
+Rua de Odeceixe,rua odeceixe,7630-640,7630-640,São Teotónio,sao joao da madeira,1.0,1.0
+Praça D Nuno Álvares Pereira,praca d nuno alvares pereira,7220-375,7220-375,Portel,portel,1.0,1.0
+Rua das Levegadas,rua levegadas,,,,,0.5,0.5
+Avenida Lino de Carvalho,avenida lino carvalho,7005-467,7005-467,Évora,evora,1.0,1.0
+Rua Mil Fontes,rua mil fontes,7220-398,7220-398,Portel,portel,1.0,1.0
+Estrada Padre Alfredo Vieira Freitas,estrada padre alfredo vieira freitas,9100-055,9100-055,,,0.75,0.75
+Rua Sta Ana,rua sta ana,9230-126,9230-126,,,0.75,0.75
+Canto das Roseiras,canto roseiras,,,,,0.5,0.5
+Rua Almirante Cândido dos Reis,rua almirante candido reis,8800-318,8800-318,Tavira,tavira,1.0,1.0
+Estrada Real,estrada real,,,Paramos,,0.75,0.5
+Rua da Fonte da Ribeira,rua fonte ribeira,6050-201,6050-201,Arez,,1.0,0.75
+Rua António Joaquim Borges Barreto,rua antonio joaquim borges barreto,7240-273,7240-273,Mourão,mourao,1.0,1.0
+Estrada da Circunvalação,estrada circunvalacao,,,,,0.5,0.5
+Rua Cristovao Colombo,rua cristovao colombo,9400-158,9400-158,,,0.75,0.75
+Rua Almirante Cândido dos Reis,rua almirante candido reis,8800-318,8800-318,Tavira,tavira,1.0,1.0
+,,,,,,0.25,0.25
+Rua da Barroca,rua barroca,,,,,0.25,0.25
+Rua da Independência,rua independencia,2965-574,2965-574,Águas de Moura,moura,1.0,1.0
+Rua de João Frade,rua joao frade,7320-129,7320-129,Castelo de Vide,castelo de vide,1.0,1.0
+Rua 1º de Maio,rua 1º maio,7040-530,7040-530,São Pedro Gafanhoeira,sao vicente,1.0,1.0
+Bairro Serpa Pinto,bairro serpa pinto,7040-014,7040-014,Arraiolos,arraiolos,1.0,1.0
+Rua Alexandre Herculano,rua alexandre herculano,2520-273,2520-273,Peniche,peniche,1.0,1.0
+Rua André de Gouveia,rua andre gouveia,,,,,0.25,0.25
+Rua 1º de Maio,rua 1º maio,7480-351,7480-351,Figueira e Barros,figueira de castelo rodrigo,1.0,1.0
+Rua Gonçalo Braga,rua goncalo braga,,,,,0.5,0.5
+,,8800-120,8800-120,Luz de Tavira,tavira,0.75,0.75
+Rua 25 de Abril,rua 25 abril,7480-392,7480-392,Valongo,valongo,1.0,1.0
+Beco Freitas,beco freitas,9020-038,9020-038,,,0.75,0.75
+Rua Sacadura Cabral,rua sacadura cabral,,,Cortegaça,,0.75,0.5
+Rua Alexandre Herculano,rua alexandre herculano,6050-201,6050-201,Arez,,1.0,0.75
+Rua do Porto,rua porto,9960-438,9960-438,Fajã Grande,,0.75,0.5
+,,,,MEM MARTINS,,0.25,0.0
+Rua António José das Neves,rua antonio jose neves,3700-041,3700-041,São João da Madeira,sao joao da madeira,1.0,1.0
+Rua Padre Laurindo,rua padre laurindo,9060-156,9060-156,,,0.75,0.75
+Caminho Santo Antonio Conj Hab Lelada Do Calalo Ii,caminho santo antonio conj hab lelada calalo ii,9020-001,9020-001,Funchal,funchal,1.0,1.0
+Rua Casal dos Vagares,rua casal vagares,3030-141,3030-141,Coimbra,coimbra,1.0,1.0
+Rua de São José,rua sao jose,2620-077,2620-077,Póvoa de Santo Adrião,ponte de lima,1.0,1.0
+Avenida Principal,avenida principal,,,,,0.25,0.25
+Rua 25 de Abril,rua 25 abril,4760-485,4760-485,Fradelos,,1.0,0.75
+Rua do Meio,rua meio,6050-465,6050-465,Salavessa,,1.0,0.75
+Rua Possidónio Alves Salgado,rua possidonio alves salgado,7490-010,7490-010,Brotas,,1.0,0.75
+Rua Lourenço de Almeida Azevedo,rua lourenco almeida azevedo,3000-250,3000-250,Coimbra,coimbra,0.75,0.75
+Rua Dr António Salles Caldeira,rua dr antonio salles caldeira,9000-156,9000-156,,,0.75,0.75
+,,,,,,0.25,0.25
+Caminho Monte,caminho monte,9050-084,9050-084,,,0.75,0.75
+Rua João Gonçalves Zarco,rua joao goncalves zarco,2660-443,2660-443,Santo António dos Cavaleiros,porto santo,1.0,1.0
+Avenida da Venezuela,avenida venezuela,,,Cascais e Estoril,cascais,0.75,0.75
+Avenida Dom Manuel II,avenida dom manuel ii,,,Maia,maia,0.75,0.75
+Rua Vasco da Gama,rua vasco gama,7565-071,7565-071,Alvalade,,1.0,0.75
+Rua Adelaide Cabete,rua adelaide cabete,1500-023,1500-023,Carnide,,1.0,0.75
+Travessa Sorte,travessa sorte,9125-198,9125-198,,,0.75,0.75
+Rua Escola Primaria,rua escola primaria,6320-181,6320-181,,,0.75,0.75
+R Campos,rua campos,4635-263,4635-263,Santo Isidoro Mcn,porto santo,1.0,1.0
+Rua de São Domingos,rua sao domingos,,,,,0.5,0.5
+Loteamento de Coura,loteamento coura,4775-444,4775-444,Nine,,0.75,0.5
+Rua Raúl Brandão,rua raul brandao,2955-216,2955-216,Pinhal Novo,,1.0,0.75
+Rua Aquilino Ribeiro,rua aquilino ribeiro,3020-096,3020-096,Coimbra,coimbra,1.0,1.0
+Rua dos Cravos,rua cravos,7200-072,7200-072,São Marcos do Campo,ponta do sol,1.0,1.0
+Rua Professor Egas Moniz,rua professor egas moniz,7920-391,7920-391,Vila Nova da Baronia,vila nova da barquinha,1.0,1.0
+Caminho Arrebentao-impasse b,caminho arrebentao-impasse b,9200-162,9200-162,,,0.75,0.75
+Rua das Ferrarias,rua ferrarias,7885-044,7885-044,Amareleja,,1.0,0.75
+Urbanização Edigold,urbanizacao edigold,8700-256,8700-256,Olhão,olhao,1.0,1.0
+Rua do Carregal,rua carregal,3880-090,3880-090,Ovar,ovar,1.0,1.0
+,,8700-124,8700-124,Moncarapacho,,0.75,0.5
+,,,,,,0.0,0.0
+Rua Nova,rua nova,9900-023,9900-023,Horta (Angústias),horta,1.0,1.0
+Rua Tapada Fole,rua tapada fole,7480-392,7480-392,Valongo,valongo,0.75,0.75
+Rua do Olival,rua olival,2660-059,2660-059,Frielas,,1.0,0.75
+Rua Chã,rua cha,,,Porto,porto,0.75,0.75
+Rua Bento de Jesus Caraça,rua bento jesus caraca,7090-411,7090-411,Aguiar,vila pouca de aguiar,1.0,1.0
+Rua Sul do Parque Infantil,rua sul parque infantil,7170-009,7170-009,Redondo,redondo,1.0,1.0
+Rua Bairro da Mata,rua bairro mata,,,,,0.5,0.5
+,,,,,,0.25,0.25
+Rua Padre António José Nabais Fernandes,rua padre antonio jose nabais fernandes,7450-270,7450-270,Vaiamonte,,1.0,0.75
+Estrada Garajau w,estrada garajau w,9125-252,9125-252,,,0.75,0.75
+Rua da Sobreira,rua sobreira,,,Arcos de Valdevez,arcos de valdevez,0.75,0.75
+Largo do Adro,largo adro,7920-021,7920-021,Alvito,alvito,1.0,1.0
+Rua António Barbosa da Silva,rua antonio barbosa silva,,,Cidade da Maia,maia,0.75,0.75
+Rua 2 General Martins de Carvalho,rua 2 general martins carvalho,3030-118,3030-118,Coimbra,coimbra,1.0,1.0
+Rua José Maria dos Santos,rua jose maria santos,3030-397,3030-397,Coimbra,coimbra,1.0,1.0
+,,,,,,0.25,0.25
+Rua de São Tiago,rua sao tiago,4505-525,4505-525,Lobão,,1.0,0.75
+Rua do Farrobo,rua farrobo,9900-401,9900-401,Flamengos,,1.0,0.75
+Caminho Lombo,caminho lombo,9050-285,9050-285,,,0.75,0.75
+Caminho Velho Dos Reis Magos,caminho velho reis magos,9125-121,9125-121,,,0.5,0.5
+Rua do Montijo,rua montijo,2610-122,2610-122,Amadora,amadora,1.0,1.0
+Rua D,rua d,2955-014,2955-014,Rio Frio,,1.0,0.75
+Rua da Azinhaga,rua azinhaga,7050-600,7050-600,São Cristóvão,sao joao da pesqueira,1.0,1.0
+Rua 21,rua 21,,,,,0.5,0.5
+Rua da Branqueira,rua branqueira,3870-335,3870-335,Torreira,,1.0,0.75
+Bairro Soeiro Pereira Gomes,bairro soeiro pereira gomes,7520-125,7520-125,Sines,sines,1.0,1.0
+Rua José António Gonçalves,rua jose antonio goncalves,7930-084,7930-084,Longueira,,1.0,0.75
+,,7500-018,7500-018,Santo André,vila real de santo antonio,0.5,0.5
+Rua Irmãs São Vicente de Paulo,rua irmas sao vicente paulo,,,,,0.5,0.5
+Rua Professor Carlos Manafaia,rua professor carlos manafaia,7520-313,7520-313,Sines,sines,1.0,1.0
+Rua das Cavadas,rua cavadas,,,,,0.25,0.25
+Rua Cruzeiro,rua cruzeiro,4635-696,4635-696,Vila Boa De Quires,vila verde,1.0,1.0
+Ladeira Branca,ladeira branca,,,Angra do Heroísmo,angra do heroismo,0.75,0.75
+Rua Principal,rua principal,2510-191,2510-191,Arelho,,0.75,0.5
+Largo do Oleiro,largo oleiro,2140-607,2140-607,Arripiado,,1.0,0.75
+,,7100-150,7100-150,,,0.25,0.25
+Rua Leonídio de Abreu,rua leonidio abreu,,,,,0.5,0.5
+Rua de Santiago,rua santiago,7200-051,7200-051,Aldeias de Montoito,porto de mos,1.0,1.0
+,,,,,,0.25,0.25
+Estrada Regional 222,estrada regional 222,9360-388,9360-388,,,0.75,0.75
+Estrada de Palmela,estrada palmela,2900-532,2900-532,Setúbal,setubal,1.0,1.0
+Levada Massapez,levada massapez,9020-185,9020-185,Funchal,funchal,1.0,1.0
+R Pacos Gaiolo,rua pacos gaiolo,4625-250,4625-250,Paços De Gaiolo,freixo de espada a cinta,1.0,1.0
+Rua dos Mártires da Liberdade,rua martires liberdade,,,,,0.5,0.5
+Rua dos Arcos,rua arcos,7440-084,7440-084,Alter do Chão,alter do chao,1.0,1.0
+Largo de São Pedro,largo sao pedro,7450-113,7450-113,Monforte,monforte,1.0,1.0
+Rua Nova,rua nova,7670-405,7670-405,,,0.75,0.75
+Rua das Cavalariças,rua cavalaricas,7370-104,7370-104,Campo Maior,campo maior,1.0,1.0
+Rua Dom João de Castro,rua dom joao castro,2955-174,2955-174,Pinhal Novo,,1.0,0.75
+Rua da Laje,rua laje,7960-036,7960-036,Pedrogão,pedrogao grande,1.0,1.0
+Rua Cine Teatro,rua cine teatro,9020-393,9020-393,Funchal,funchal,1.0,1.0
+Rua de Salvaterra,rua salvaterra,2080-098,2080-098,Almeirim,almeirim,1.0,1.0
+Travessa Bairro Da Espanha,travessa bairro espanha,9370-546,9370-546,Calheta,calheta madeira,1.0,1.0
+Rua do Colete,rua colete,7885-053,7885-053,Amareleja,,1.0,0.75
+Rua Palmira,rua palmira,,,,,0.25,0.25
+Rua Serafim Cruz,rua serafim cruz,,,,,0.5,0.5
+Rua de Angola,rua angola,2955-156,2955-156,Pinhal Novo,,1.0,0.75
+Praça do Comércio,praca comercio,,,,,0.5,0.5
+,,7460-001,7460-001,Cabeço de Vide,reguengos de monsaraz,0.5,0.5
+Avenida da Liberdade,avenida liberdade,1250-144,1250-144,Lisboa,lisboa,1.0,1.0
+Caminho Galeão,caminho galeao,9020-085,9020-085,,,0.75,0.75
+Travessa do Castro,travessa castro,1350-070,1350-070,Lisboa,lisboa,1.0,1.0
+Praça da Ribeira Nova,praca ribeira nova,,,Lisboa,lisboa,0.5,0.5
+Praça da Carreira,praca carreira,,,Estoril,,0.75,0.5
+Caminho Santo António,caminho santo antonio,9020-001,9020-001,,,0.75,0.75
+Impasse 1 Do Caminho Do Lazareto,impasse 1 caminho lazareto,9060-365,9060-365,,,0.75,0.75
+Rua da Alegria,rua alegria,7940-311,7940-311,Faro do Alentejo,faro,1.0,1.0
+Rua Leonel Gonçalves,rua leonel goncalves,7630-084,7630-084,Longueira,,1.0,0.75
+Rua Rafael Bordalo Pinheiro,rua rafael bordalo pinheiro,2820-021,2820-021,Charneca da Caparica,peso da regua,1.0,1.0
+Rua da Princesa,rua princesa,8900,,Vila Real de Santo António,vila real de santo antonio,1.0,0.75
+Loteamento Mendeiros Vinhas,loteamento mendeiros vinhas,7100-146,7100-146,Estremoz,estremoz,1.0,1.0
+Caminho Arrebentão,caminho arrebentao,9200-152,9200-152,,,0.75,0.75
+Rua da Hera,rua hera,7830-354,7830-354,Serpa,serpa,1.0,1.0
+Rua 18 de Maio,rua 18 maio,,,,,0.5,0.5
+Rua Doutor Estevão Afonso,rua doutor estevao afonso,8700-449,8700-449,Olhão,olhao,1.0,1.0
+Caminho Ribeiro Escuro,caminho ribeiro escuro,9200-111,9200-111,,,0.75,0.75
+Rua do Campo,rua campo,2500-078,2500-078,,,0.75,0.75
+Rua das Cancelas,rua cancelas,9900-327,9900-327,Castelo Branco,castelo branco,1.0,1.0
+,,,,,,0.0,0.0
+Rua da Escola,rua escola,6050-465,6050-465,Salavessa,,1.0,0.75
+Avenida de Infante de Sagres,avenida infante sagres,,,,,0.5,0.5
+Rua Palmeira,rua palmeira,9100-100,9100-100,,,0.75,0.75
+Rua António Pinto Coelho,rua antonio pinto coelho,2080-384,2080-384,Corticóis,,1.0,0.75
+Rua das Forças Armadas,rua forcas armadas,7230-019,7230-019,Barrancos,barrancos,1.0,1.0
+Rua dos Montes de Cima,rua montes cima,7665-880,7665-880,Santa Clara-a-Velha,santa cruz,0.75,0.75
+Praça da República,praca republica,6050-350,6050-350,,,0.75,0.75
+Rua Doutor Cândido de Pinho,rua doutor candido pinho,4520-213,4520-213,Santa Maria da Feira,santa maria da feira,1.0,1.0
+,,,,,,0.25,0.25
+Rua Jose Joaquim Da Costa,rua jose joaquim costa,9325-100,9325-100,Câmara de Lobos,camara de lobos,0.75,0.75
+Rua Florbela Espanca,rua florbela espanca,,,,,0.5,0.5
+Avenida Visconde de Valmor,avenida visconde valmor,1050-241,1050-241,Lisboa,lisboa,1.0,1.0
+,,8700-226,8700-226,Olhão,olhao,0.75,0.75
+Rua Dom Rodrigo Lourenço,rua dom rodrigo lourenco,8800-531,8800-531,Santa Luzia,santa maria da feira,1.0,1.0
+EN 1 km 130,en 1 km 130,2420-399,2420-399,Leiria,leiria,0.75,0.75
+Rua João Pereira da Rosa,rua joao pereira rosa,,,Alhos Vedros,,0.75,0.5
+Rua José Lamas,rua jose lamas,8800-467,8800-467,Tavira,tavira,1.0,1.0
+Rua Rodrigo da Fonseca,rua rodrigo fonseca,,,,,0.5,0.5
+Rua José Relvas,rua jose relvas,2090-106,2090-106,Alpiarça,alpiarca,1.0,1.0
+Rua da Muralha Nova,rua muralha nova,7860-228,7860-228,Moura,moura,1.0,1.0
+,,7595-168,7595-168,Torrão,,0.5,0.25
+Vereda Cova Da Iria,vereda cova iria,9135-388,9135-388,,,0.75,0.75
+Rua do Moinho de Vento,rua moinho vento,7555-131,7555-131,Cercal do Alentejo,ponta do sol,1.0,1.0
+Rua dos Algares,rua algares,7600-010,7600-010,Aljustrel,aljustrel,1.0,1.0
+Estrada de Monforte,estrada monforte,7350-431,7350-431,Barbacena,,1.0,0.75
+Rua Vila da Graça,rua vila graca,7480-130,7480-130,Avis,avis,1.0,1.0
+Rua Gago Coutinho,rua gago coutinho,7400-258,7400-258,Ponte de Sôr,ponte de sor,1.0,1.0
+,,,,,,0.0,0.0
+Rua do Alecrim,rua alecrim,2040-087,2040-087,Rio Maior,rio maior,1.0,1.0
+Travessa dos Foros,travessa foros,2140-307,2140-307,Pinheiro Grande,,1.0,0.75
+Rua Ferreira de Lemos,rua ferreira lemos,4780-468,4780-468,Santo Tirso,santo tirso,0.75,0.75
+Rua Massapez,rua massapez,9100-210,9100-210,,,0.75,0.75
+Rua de Moçambique,rua mocambique,2520-376,2520-376,Peniche,peniche,1.0,1.0
+Travessa Frias,travessa frias,9000-037,9000-037,,,0.75,0.75
+Sítio Banda d Alem,sitio banda d alem,9200-032,9200-032,,,0.75,0.75
+Largo Torneiras,largo torneiras,9060-313,9060-313,,,0.75,0.75
+Avenida Joaquim Máximo de Calça e Pina,avenida joaquim maximo calca pina,7470-201,7470-201,Sousel,sousel,0.75,0.75
+,,7040-130,7040-130,,,0.25,0.25
+,,7830-468,7830-468,Vila Nova de São Bento,vila verde,0.5,0.5
+Rua dos Ranúnculos,rua ranunculos,,,,,0.5,0.5
+Avenida de Roma,avenida roma,1700-330,1700-330,Lisboa,lisboa,1.0,1.0
+Caminho Fonte Do Livramento,caminho fonte livramento,9125-065,9125-065,,,0.75,0.75
+Rua do Matadouro,rua matadouro,7830-380,7830-380,Serpa,serpa,1.0,1.0
+,,7570-432,7570-432,Melides,,0.5,0.25
+Travessa do Mercado,travessa mercado,,,,,0.5,0.5
+Estrada Da Circunvalação,estrada circunvalacao,7940-108,7940-108,Cuba,cuba,1.0,1.0
+Rua da Boavista,rua boavista,7830-398,7830-398,Serpa,serpa,1.0,1.0
+Rua das Milheiras,rua milheiras,2080-088,2080-088,Almeirim,almeirim,1.0,1.0
+Caminho Sto António,caminho sto antonio,9020-001,9020-001,,,0.75,0.75
+Avenida da República,avenida republica,,,,,0.5,0.5
+Rua Conde de Bertiandes,rua conde bertiandes,7040-626,7040-626,Vimieiro,,1.0,0.75
+Rua Pedro Machado,rua pedro machado,7830-429,7830-429,Serpa,serpa,1.0,1.0
+Caminho Larano,caminho larano,9200-107,9200-107,,,0.75,0.75
+Rua Professor Reinaldo Santos,rua professor reinaldo santos,1500-501,1500-501,Lisboa,lisboa,1.0,1.0
+Vereda Boneco,vereda boneco,9050-213,9050-213,,,0.75,0.75
+Rua Nossa Senhora do Carmo,rua nossa senhora carmo,8700-024,8700-024,Fuzeta,,1.0,0.75
+Rua Vasco Queimado de Villa Lobos,rua vasco queimado villa lobos,,,Vendas de Azeitão,vila de rei,0.75,0.75
+Rua da Capela,rua capela,,,Caldas de Sangemil,porto de mos,0.5,0.5
+Estrada Regional 1-2ª,estrada regional 1-2ª,,,,,0.5,0.5
+,,,,Portel,portel,0.25,0.25
+Avenida Comandante Ramiro Correia,avenida comandante ramiro correia,,,Beja,beja,0.75,0.75
+Estrada Regional,estrada regional,9360-356,9360-356,,,0.75,0.75
+Rampa Boa Nova,rampa boa nova,9060-006,9060-006,,,0.75,0.75
+Rua General Humberto Delgado,rua general humberto delgado,3030-327,3030-327,Coimbra,coimbra,1.0,1.0
+Rua António Machuco Janeiro,rua antonio machuco janeiro,7830-509,7830-509,Vale de Vargo,macedo de cavaleiros,1.0,1.0
+Rua Principal,rua principal,6320-251,6320-251,,,0.75,0.75
+Rua Sta Maria,rua sta maria,9060-291,9060-291,,,0.75,0.75
+Rua Vitorino Nemésio,rua vitorino nemesio,4470-387,4470-387,Maia,maia,1.0,1.0
+Rua Doutor Mário António Geraldes Monteiro,rua doutor mario antonio geraldes monteiro,7350-451,7350-451,Santa Eulália,santa maria da feira,1.0,1.0
+Estrada Eng Jaime Ornelas Camacho,estrada eng jaime ornelas camacho,9000-147,9000-147,,,0.75,0.75
+Travessa da Igreja,travessa igreja,7040-702,7040-702,Sabugueiro,,1.0,0.75
+Rua Massapez,rua massapez,9370-391,9370-391,Calheta,calheta madeira,1.0,1.0
+Rua Garrett,rua garrett,2520-443,2520-443,Peniche,peniche,1.0,1.0
+Rua do Bairro Afonso Costa,rua bairro afonso costa,2910-414,2910-414,Setúbal,setubal,1.0,1.0
+Vereda Bela Vista Entrada 6,vereda bela vista entrada 6,9060-401,9060-401,,,0.75,0.75
+Rua de António Joaquim da Silva,rua antonio joaquim silva,,,,,0.25,0.25
+Rua da Sociedade Recreativa,rua sociedade recreativa,7400-123,7400-123,Ponte de Sôr,ponte de sor,1.0,1.0
+Rua 25 de Abril,rua 25 abril,7800-651,7800-651,Nossa Senhora das Neves,,1.0,0.75
+Rua Surriba,rua surriba,4630-500,4630-500,Marco De Canaveses,marco de canaveses,1.0,1.0
+Rua dos Pardais,rua pardais,2140-431,2140-431,Vale de Cavalos,freixo de espada a cinta,1.0,1.0
+Rua Doutor Renato Mansinho da Graça,rua doutor renato mansinho graca,8800-363,8800-363,Tavira,tavira,1.0,1.0
+Largo Primeiro de Maio,largo primeiro maio,2680-290,2680-290,Apelação,,1.0,0.75
+Rua Ferreira Borges,rua ferreira borges,,,,,0.5,0.5
+Alameda Danilo Gouveia,alameda danilo gouveia,9000-765,9000-765,Funchal,funchal,0.75,0.75
+Rua da Comenda,rua comenda,7220-567,7220-567,Vera Cruz,santa cruz da graciosa,1.0,1.0
+Rua Canto Muro,rua canto muro,9060-048,9060-048,,,0.75,0.75
+Avenida de Lisboa,avenida lisboa,,,Casal de Cambra,freixo de espada a cinta,0.5,0.5
+Rua das Pratas,rua pratas,7340-124,7340-124,Esperança,,1.0,0.75
+Rua Professor António Maria Godinho,rua professor antonio maria godinho,7000-452,7000-452,Évora,evora,1.0,1.0
+Rua 25 de Abril,rua 25 abril,6040-077,6040-077,Vale da Vinha,sao joao da pesqueira,1.0,1.0
+R S Bernardo,rua s bernardo,4575-431,4575-431,Várzea Do Douro,,1.0,0.75
+Azinhaga Fonte do Lavra,azinhaga fonte lavra,2910-496,2910-496,Setúbal,setubal,1.0,1.0
+Rua Diana de Liz,rua diana liz,7005-413,7005-413,Évora,evora,0.75,0.75
+Rua Frederico Ulritch,rua frederico ulritch,,,,,0.5,0.5
+Azinhada da Pedreira,azinhada pedreira,7320-011,7320-011,Nossa Senhora da Graça de Póvoa e Meadas,sao joao da madeira,1.0,1.0
+Estrada do Arneiro,estrada arneiro,7400-111,7400-111,Ponte de Sôr,ponte de sor,1.0,1.0
+Rua Dr Carlos Varela,rua dr carlos varela,9000-759,9000-759,,,0.75,0.75
+,,8800-102,8800-102,Luz de Tavira,tavira,0.75,0.75
+Rua Venezuela,rua venezuela,9000-127,9000-127,,,0.75,0.75
+Rua Barâo do Rio Zêzere,rua barao rio zezere,8900,,Vila Real de Santo António,vila real de santo antonio,1.0,0.75
+Rua de Aguim,rua aguim,,,,,0.5,0.5
+Rua da Praça,rua praca,7800-611,7800-611,Baleizão,,1.0,0.75
+Rua das Acácias,rua acacias,3030-422,3030-422,Coimbra,coimbra,1.0,1.0
+Rua das Torres,rua torres,7595-124,7595-124,Torrão,,1.0,0.75
+Largo do Senhor da Pobreza,largo senhor pobreza,7000-811,7000-811,Évora,evora,1.0,1.0
+Rua dos Estevais,rua estevais,7885-272,7885-272,Póvoa de São Miguel,porto de mos,1.0,1.0
+Rua Doutor António Carvalho Figueiredo,rua doutor antonio carvalho figueiredo,,,,,0.5,0.5
+Rua General Teófilo de Trindade,rua general teofilo trindade,7800-316,7800-316,,,0.75,0.75
+Caminho Velho Do Rancho,caminho velho rancho,9300-316,9300-316,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua da Arroteia,rua arroteia,4465-027,4465-027,,,0.5,0.5
+Rua Jornal de Arganil,rua jornal arganil,3300-053,3300-053,Arganil,arganil,0.75,0.75
+Rua Estrada Municipal 313,rua estrada municipal 313,5000-105,5000-105,Vila Real,vila real,1.0,1.0
+Rua da Alegria,rua alegria,7500-120,7500-120,Vila Nova de Santo André,vila verde,1.0,1.0
+Loteamento da Cerca da Teimosa,loteamento cerca teimosa,7630-500,7630-500,São Luís,sao joao da madeira,1.0,1.0
+Rua da República,rua republica,7885-039,7885-039,Amareleja,,1.0,0.75
+Rua de São Pedro,rua sao pedro,7100-120,7100-120,Estremoz,estremoz,1.0,1.0
+,,,,,,0.0,0.0
+Rua José Francisco da Silva Álvaro,rua jose francisco silva alvaro,7600-105,7600-105,,,0.75,0.75
+Rua de Serpa Pinto,rua serpa pinto,5050,,Peso da Régua,peso da regua,0.75,0.5
+Caminho Quinta Dos Louros,caminho quinta louros,9125-112,9125-112,,,0.75,0.75
+Rua da Defesa,rua defesa,7200-072,7200-072,São Marcos do Campo,ponta do sol,1.0,1.0
+Estrada João Gonçalves Zarco,estrada joao goncalves zarco,9300-079,9300-079,Câmara de Lobos,camara de lobos,1.0,1.0
+Rua Grupo de Instrução Popular,rua grupo instrucao popular,,,,,0.25,0.25
+Rua da Pedreira,rua pedreira,7100-630,7100-630,São Bento do Cortiço,vila do bispo,1.0,1.0
+Rua Professor Joaquim António de Oliveira,rua professor joaquim antonio oliveira,7330-272,7330-272,Santo António das Areias,porto santo,1.0,1.0
+Avenida Padre José Agostinho Rodrigues,avenida padre jose agostinho rodrigues,7440-014,7440-014,Alter do Chão,alter do chao,1.0,1.0
+Rua Sta Maria,rua sta maria,9060-291,9060-291,,,0.75,0.75
+Rua das Gaivotas,rua gaivotas,8700-158,8700-158,Olhão,olhao,1.0,1.0
+,,,,,,0.0,0.0
+Rua Doutor João de Barros,rua doutor joao barros,,,,,0.5,0.5
+,,,,,,0.0,0.0
+Alameda da Europa,alameda europa,6200-505,6200-505,Covilhã,covilha,1.0,1.0
+Rua Casa Branca,rua casa branca,9000-113,9000-113,,,0.5,0.5
+Rua D Ernesto Sena De Oliveira,rua d ernesto sena oliveira,9050-092,9050-092,,,0.75,0.75
+Rua dos Telheiros,rua telheiros,7470-155,7470-155,Santo Amaro,vila real de santo antonio,1.0,1.0
+Praça dos Poveiros,praca poveiros,4000-393,4000-393,Porto,porto,1.0,1.0
+R S Lourenço,rua s lourenco,4625-529,4625-529,São Lourenço Do Douro,sever do vouga,1.0,1.0
+Caminho Ribeiro Do Paraíso,caminho ribeiro paraiso,9200-077,9200-077,,,0.5,0.5
+Rua Brilhante do Norte,rua brilhante norte,,,Maia,maia,0.75,0.75
+Estrada Aeroporto,estrada aeroporto,9125-087,9125-087,,,0.75,0.75
+Rua da Sobreira,rua sobreira,,,Paços de Brandão,freixo de espada a cinta,0.75,0.75
+Rua da Quinta da Prata,rua quinta prata,7150-154,7150-154,Borba,borba,1.0,1.0
+Rua Lombada,rua lombada,9100-219,9100-219,,,0.75,0.75
+Rua Fundação Calouste Gulbenkian,rua fundacao calouste gulbenkian,,,,,0.5,0.5
+,,,,Faro,faro,0.25,0.25
+Travessa do Guarda-Jóias,travessa guarda-joias,,,,,0.25,0.25
+Avenida Luis De Camoes,avenida luis camoes,9000-168,9000-168,,,0.5,0.5
+,,,,,,0.25,0.25
+Rua de Alpiarça,rua alpiarca,2080-091,2080-091,Almeirim,almeirim,1.0,1.0
+Avenida Marquês de Tomar,avenida marques tomar,,,,,0.5,0.5
+Rua do Grivão,rua grivao,7350-197,7350-197,Elvas,elvas,1.0,1.0
+Rua Álvares Cabral,rua alvares cabral,3870-126,3870-126,Murtosa,murtosa,1.0,1.0
+Rua Principal,rua principal,5470-323,5470-323,Vilarinho de Negrões,ponte de lima,1.0,1.0
+Rua de Santo André,rua santo andre,7800-296,7800-296,,,0.75,0.75
+R Camelia,rua camelia,4575-451,4575-451,Várzea Do Douro,,0.75,0.5
+Estrada da Bela Vista,estrada bela vista,,,Charneca de Caparica e Sobreda,macedo de cavaleiros,0.75,0.75
+,,,,,,0.25,0.25
+Largo da Oficina,largo oficina,2955-014,2955-014,Rio Frio,,1.0,0.75
+Cc Cruzinha,cc cruzinha,4635-697,4635-697,Vila Boa De Quires,vila verde,1.0,1.0
+Rua Senhora do Carmo,rua senhora carmo,7100-102,7100-102,Estremoz,estremoz,1.0,1.0
+Rua José Relvas,rua jose relvas,,,parede,paredes,0.75,0.75
+Rua de Arronches,rua arronches,7370-092,7370-092,Campo Maior,campo maior,1.0,1.0
+Rua General Francisco António das Chagas,rua general francisco antonio chagas,8800-744,8800-744,Tavira,tavira,1.0,1.0
+,,9580-470,9580-470,,,0.25,0.25
+Rua da Fonte Boa,rua fonte boa,7900-031,7900-031,Alfundão,fundao,1.0,1.0
+Rua do Alportel,rua alportel,,,,,0.25,0.25
+Rua de Ferreirinhos,rua ferreirinhos,4760-485,4760-485,Fradelos,,1.0,0.75
+Rua das Barreiras Vermelhas,rua barreiras vermelhas,7630-124,7630-124,Odemira,odemira,1.0,1.0
+Rua de António Granjo,rua antonio granjo,,,,,0.25,0.25
+Rua Jose Brites Camões,rua jose brites camoes,7200-013,7200-013,Aldeia de Marmelos,porto de mos,1.0,1.0
+Rua da Cruz,rua cruz,7920-035,7920-035,Alvito,alvito,1.0,1.0
+Rua dos Pinheiros,rua pinheiros,,,,,0.5,0.5
+Caminho Virtudes,caminho virtudes,9000-163,9000-163,Funchal,funchal,0.75,0.75
+Largo Doutor Regalla,largo doutor regalla,7370-047,7370-047,Campo Maior,campo maior,1.0,1.0
+Rua Diogo Cão,rua diogo cao,,,Cascais e Estoril,cascais,0.75,0.75
+Rua de Santo André,rua santo andre,7800-296,7800-296,,,0.75,0.75
+Rua dos Casais,rua casais,2725-261,2725-261,Mem Martins,,1.0,0.75
+Largo da Fonte Pública,largo fonte publica,7580-551,7580-551,Casebres,,1.0,0.75
+Beco Dr Joaquim Carlos,beco dr joaquim carlos,9000-189,9000-189,,,0.75,0.75
+,,,,,,0.0,0.0
+Rua de Santa Maria,rua santa maria,7200-524,7200-524,Campinho,,1.0,0.75
+Rua Ary dos Santos,rua ary santos,,,,,0.5,0.5
+Rua Visconde,rua visconde,9350-213,9350-213,,,0.75,0.75
+,,,,,,0.25,0.25
+Rua de Noudar,rua noudar,7230-031,7230-031,Barrancos,barrancos,1.0,1.0
+Rua Sorte,rua sorte,3050,,Antes,abrantes,0.75,0.5
+Rua de Mestre Rezende,rua mestre rezende,7000-611,7000-611,Évora,evora,1.0,1.0
+Rua Castilho,rua castilho,,,,,0.5,0.5
+,,,,,,0.25,0.25
+Urbanização Encosta do Tomé,urbanizacao encosta tome,8700-174,8700-174,Pechão,,1.0,0.75
+Rua Santo António,rua santo antonio,6320-658,6320-658,,,0.75,0.75
+Rua Gonçalo Velho,rua goncalo velho,8700-034,8700-034,Fuzeta,,1.0,0.75
+Rua Ribeira Santana,rua ribeira santana,9020-397,9020-397,Funchal,funchal,1.0,1.0
+Rua Nau Santa Catarina,rua nau santa catarina,7520-268,7520-268,Sines,sines,1.0,1.0
+Rua José Gomes,rua jose gomes,,,,,0.25,0.25
+Estrada Nacional 244,estrada nacional 244,7400-453,7400-453,Escusa,,1.0,0.75
+Rua Central da Azeda,rua central azeda,2910-029,2910-029,Setúbal,setubal,1.0,1.0
+Rua do Mercado,rua mercado,7320-126,7320-126,Castelo de Vide,castelo de vide,1.0,1.0
+Rua Dr. Correia de Mateus,rua dr. correia mateus,2400-217,2400-217,Leiria,leiria,1.0,1.0
+Rua Nova Alegria,rua nova alegria,9060-204,9060-204,,,0.75,0.75
+Rua Salgado Zenha,rua salgado zenha,7370-022,7370-022,Campo Maior,campo maior,1.0,1.0
+Rua Manuel Aldegalega,rua manuel aldegalega,2910-745,2910-745,Setúbal,setubal,1.0,1.0
+Estrada Nossa Senhora Da Guadalupe,estrada nossa senhora guadalupe,9225-240,9225-240,,,0.75,0.75
+Avenida Visconde de Alverca,avenida visconde alverca,3150-120,3150-120,Condeixa,condeixa-a-nova,1.0,1.0
+Vereda Amendoeiras,vereda amendoeiras,9350-231,9350-231,,,0.75,0.75
+Vereda Pico Do Funcho,vereda pico funcho,9000-753,9000-753,Funchal,funchal,1.0,1.0
+Travessa do Desembargador,travessa desembargador,7595-163,7595-163,Torrão,,1.0,0.75
+Rua da Canada,rua canada,7600-212,7600-212,Ervidel,,1.0,0.75
+,,,,,,0.25,0.25
+Rua Capitão Gomes Pereira,rua capitao gomes pereira,7040-212,7040-212,Igrejinha,,1.0,0.75
+R S Lourenço,rua s lourenco,4625-529,4625-529,São Lourenço Do Douro,sever do vouga,1.0,1.0
+R Sande,rua sande,4625-486,4625-486,Sande Mcn,,1.0,0.75
+Rua do Rosmaninho,rua rosmaninho,2910-282,2910-282,Setúbal,setubal,1.0,1.0
+Rua 10 de Junho,rua 10 junho,2040-410,2040-410,Rio Maior,rio maior,1.0,1.0
+Rua da Carneira,rua carneira,7860-021,7860-021,Moura,moura,1.0,1.0
+Rua Cidade Maui,rua cidade maui,9060-067,9060-067,,,0.75,0.75
+Sítio Cascalheira,sitio cascalheira,7340-125,7340-125,Esperança,,0.75,0.5
+Rua de Santa Catarina,rua santa catarina,,,Porto,porto,0.75,0.75
+Rua da Igreja,rua igreja,9900-302,9900-302,Capelo,,1.0,0.75
+Rua Comboio,rua comboio,9050-053,9050-053,,,0.75,0.75
+Rua dos Anjos,rua anjos,7005-458,7005-458,Bairro dos Canaviais,,1.0,0.75
+Rua Professor Ferreira da Silva,rua professor ferreira silva,,,,,0.5,0.5
+,,7570-005,7570-005,,,0.25,0.25
+Rua dos Aliados,rua aliados,4760-702,4760-702,Ribeirão,,1.0,0.75
+Rua Cuculudo,rua cuculudo,4630-628,4630-628,Soalhães,,1.0,0.75
+Largo do Município,largo municipio,4720-057,4720-057,Amares,amares,0.75,0.75
+Caminho Fonte Do Livramento,caminho fonte livramento,9125-065,9125-065,,,0.5,0.5
+Rua Paiva Boléo,rua paiva boleo,,,,,0.5,0.5
+Rua Luís de Camões,rua luis camoes,7480-147,7480-147,Avis,avis,1.0,1.0
+Rua Lages,rua lages,6320-581,6320-581,,,0.75,0.75
+,,,,Macieira de Rates,vila de rei,0.25,0.25
+Rua da Igreja,rua igreja,7300-301,7300-301,Alagoa,,1.0,0.75
+,,,,,,0.0,0.0
+Rua Jose Joaquim Da Costa,rua jose joaquim costa,9325-100,9325-100,Câmara de Lobos,camara de lobos,0.75,0.75
+Rua dos Lusíadas,rua lusiadas,7350-268,7350-268,Elvas,elvas,1.0,1.0
+Travessa Dr Fernando Rebelo,travessa dr fernando rebelo,9020-407,9020-407,Funchal,funchal,1.0,1.0
+Avenida Gago Coutinho e Sacadura Cabral,avenida gago coutinho sacadura cabral,6430-183,6430-183,Mêda,meda,0.75,0.75
+R D António Jose Da Rocha Couto,rua d antonio jose rocha couto,4625-640,4625-640,Vila Boa Do Bispo,vila do bispo,1.0,1.0
+Rua José Eduardo Martins Pereira,rua jose eduardo martins pereira,2500-298,2500-298,,,0.75,0.75
+Rua São João de Deus,rua sao joao deus,7150-142,7150-142,Borba,borba,1.0,1.0
+Rua Quinta da Silveira de Cima,rua quinta silveira cima,2815-713,2815-713,Bairro Novo da Silveira,ponte da barca,1.0,1.0
+Rua Nova do Calhariz,rua nova calhariz,,,,,0.5,0.5
+Largo do Lagar,largo lagar,7330-313,7330-313,Escusa,,1.0,0.75
+,,7100-062,7100-062,,,0.25,0.25
+Rua do Canto,rua canto,9900-302,9900-302,Capelo,,1.0,0.75
+Estrada Boa Nova,estrada boa nova,9060-002,9060-002,,,0.75,0.75
+,,,,,,0.0,0.0
+Rua Frei Caetano Brandão,rua frei caetano brandao,,,,,0.5,0.5
+Rua do Covalinho,rua covalinho,7200-378,7200-378,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua Camilo Castelo Branco,rua camilo castelo branco,7540-148,7540-148,Santiago do Cacém,santiago do cacem,1.0,1.0
+Rúa San Telmo,rua san telmo,36700,,,,0.75,0.5
+Bairro Palmeira,bairro palmeira,9300-119,9300-119,Câmara de Lobos,camara de lobos,0.75,0.75
+Rua Luís Vaz de Camões,rua luis vaz camoes,7960-282,7960-282,Vidigueira,vidigueira,1.0,1.0
+,,7830-011,7830-011,Vila Nova de São Bento,vila verde,0.5,0.5
+,,5090-012,5090-012,,,0.5,0.5
+Vereda Levada,vereda levada,9370-661,9370-661,Calheta,calheta madeira,1.0,1.0
+Rua 25 de Abril,rua 25 abril,2080-382,2080-382,Corticóis,,1.0,0.75
+Rua Flávio Rodrigues,rua flavio rodrigues,3000-550,3000-550,Coimbra,coimbra,1.0,1.0
+Rua da Madeira,rua madeira,7200-479,7200-479,Reguengos de Monsaraz,reguengos de monsaraz,1.0,1.0
+Rua Quinta Leme,rua quinta leme,9020-223,9020-223,,,0.75,0.75
+Rua Câmara de Elvas,rua camara elvas,7350-511,7350-511,Vila Fernando,vila nova de foz coa,1.0,1.0
+Rua Velha,rua velha,2140-382,2140-382,Ulme,,1.0,0.75
+Rua do Vale Coronado,rua vale coronado,,,,,0.25,0.25
+Rua Jose Francisco Silva Alvaro,rua jose francisco silva alvaro,7600-105,7600-105,Aljustrel,aljustrel,1.0,1.0
+Estrada Benvinda Ascensão Oliveira,estrada benvinda ascensao oliveira,9400-127,9400-127,,,0.75,0.75
+Rua Progresso do Alentejo,rua progresso alentejo,7000-460,7000-460,Évora,evora,1.0,1.0
+Rua da Central Eléctrica,rua central electrica,2520-311,2520-311,Peniche,peniche,0.75,0.75
+Estrada Nacional 243,estrada nacional 243,2140-213,2140-213,Chouto,,1.0,0.75
+Rua Laura Alves,rua laura alves,,,,,0.5,0.5
+Travessa Cinema,travessa cinema,7600-436,7600-436,São João de Negrilhos,ponte de lima,1.0,1.0
+Avenida Professor Machado Vilela,avenida professor machado vilela,4720,,Vila Verde,vila verde,0.75,0.5
+Rua da Travessa,rua travessa,9900-401,9900-401,Flamengos,,1.0,0.75
+Cam Sta Eulália,cam sta eulalia,4625-060,4625-060,Ariz Mcn,,0.75,0.5
+Rua Flores,rua flores,6320-511,6320-511,,,0.75,0.75
+Beco São Pedro,beco sao pedro,2040-172,2040-172,Outeiro da Cortiçada,peso da regua,1.0,1.0
+Travessa do Forno,travessa forno,7700-318,7700-318,Aldeia dos Fernandes,,1.0,0.75
+Avenida Rainha Dona Leonor,avenida rainha dona leonor,,,,,0.5,0.5
+Rua Doutor Manuel Inácio de Sousa,rua doutor manuel inacio sousa,9900-152,9900-152,Horta (Matriz),horta,1.0,1.0
+Rua Elias Garcia,rua elias garcia,2800-280,2800-280,Almada,almada,1.0,1.0
+Paseo da Corredoira,paseo corredoira,36700,,,,0.75,0.5
+Rua do Rolim,rua rolim,7005-442,7005-442,Bairro dos Canaviais,,1.0,0.75
+Alameda António Sérgio,alameda antonio sergio,,,Linda-a-Velha,freixo de espada a cinta,0.5,0.5
+,,,,,,0.25,0.25
+Caminho Velho Estrela,caminho velho estrela,9020-317,9020-317,,,0.75,0.75
+Rua da Quinta,rua quinta,,,,,0.5,0.5
+Rua Infante de Sagres,rua infante sagres,7540-192,7540-192,Santiago do Cacém,santiago do cacem,1.0,1.0
+Rua Jose Pereira De Nobrega,rua jose pereira nobrega,9100-041,9100-041,,,0.75,0.75
+Praça Conselheiro Silva Torres,praca conselheiro silva torres,4910-122,4910-122,Caminha,caminha,0.75,0.75
+Rua do Bom Jardim,rua bom jardim,,,,,0.5,0.5
+Rua 1 De Dezembro,rua 1 dezembro,9350-205,9350-205,,,0.75,0.75
+Rua da Azenha,rua azenha,4880-105,4880-105,,,0.5,0.5
+Estrada Aeroporto Qta Da Azenha,estrada aeroporto qta azenha,9125-086,9125-086,,,0.5,0.5
+Rua Doutor Leite de Vasconcelos,rua doutor leite vasconcelos,7230-014,7230-014,Barrancos,barrancos,1.0,1.0
+Rua 1 de Junho,rua 1 junho,2910-024,2910-024,Setúbal,setubal,1.0,1.0
+Rua Almirante Cândido dos Reis,rua almirante candido reis,2040-322,2040-322,Rio Maior,rio maior,1.0,1.0
+Rua Principal de Santa Maria,rua principal santa maria,7000-723,7000-723,Évora,evora,1.0,1.0
+Rua Tenente Sangreman Henriques,rua tenente sangreman henriques,2500-253,2500-253,Caldas da Rainha,caldas da rainha,0.75,0.75
+Rua do Meirinho,rua meirinho,2140-307,2140-307,Pinheiro Grande,,1.0,0.75
+Rua da Cabine,rua cabine,6050-040,6050-040,Alpalhão,,1.0,0.75
+,,,,,,0.0,0.0
+Avenida dos Correios,avenida correios,,,,,0.5,0.5
+"EN 201 Km 62,8",en 201 km 628,4700-000,4700-000,Lugar de Carreiro,vila de rei,0.75,0.75
+Rua 1º de Dezembro,rua 1º dezembro,2040-452,2040-452,São João da Ribeira,sao vicente,1.0,1.0
+Vereda Calcada,vereda calcada,9125-065,9125-065,,,0.75,0.75
+Alameda dos Lusíadas,alameda lusiadas,2520-201,2520-201,,,0.75,0.75
+Rua do Lobito,rua lobito,4760-712,4760-712,Ribeirão,,1.0,0.75
+Bairro Padre Manuel Antunes,bairro padre manuel antunes,7350-431,7350-431,Barbacena,,1.0,0.75
+Rua dos Caçadores,rua cacadores,7580-003,7580-003,Albergaria,albergaria-a-velha,1.0,1.0
+,,1200-224,1200-224,,,0.25,0.25
+Avenida de Roma,avenida roma,,,,,0.5,0.5
+Rua de Cedofeita,rua cedofeita,,,,,0.5,0.5
+Rua dos Bombeiros Voluntários,rua bombeiros voluntarios,,,,,0.25,0.25
+Rua Martins Sarmento,rua martins sarmento,,,,,0.25,0.25
+Rua das Pedras,rua pedras,7800-290,7800-290,,,0.75,0.75
+Rua Escadinhas de São Roque,rua escadinhas sao roque,7595-118,7595-118,Torrão,,1.0,0.75
+Rua 1º de Maio,rua 1º maio,2090-217,2090-217,Frade de Cima,macedo de cavaleiros,1.0,1.0
+,,,,Serra do Meio,ferreira do alentejo,0.5,0.5
+Rua Carvalho Araújo,rua carvalho araujo,,,,,0.5,0.5
+,,7470-071,7470-071,Cano,,0.5,0.25
+Rua Santa Eufémia,rua santa eufemia,6320-242,6320-242,,,0.75,0.75
+Estrada de Quelfes,estrada quelfes,8700-218,8700-218,Olhão,olhao,1.0,1.0
+Rua José da Silva Palma,rua jose silva palma,7005-527,7005-527,Évora,evora,1.0,1.0
+Rua do Comércio,rua comercio,7440-066,7440-066,Alter do Chão,alter do chao,1.0,1.0
+Rua das Pedras de Baixo,rua pedras baixo,,,,,0.5,0.5
+Rua Poeta José Afonso,rua poeta jose afonso,7460-149,7460-149,Fronteira,fronteira,1.0,1.0
+Avenida Calouste Gulbenkian,avenida calouste gulbenkian,,,,,0.5,0.5
+Rua da Ferrôa,rua ferroa,7470-029,7470-029,Cano,,1.0,0.75
+Avenida Alonso Gomes,avenida alonso gomes,7800-631,7800-631,Cabeça Gorda,,1.0,0.75
+Rua Doutor Queiroz Vaz Guedes,rua doutor queiroz vaz guedes,2090-076,2090-076,Alpiarça,alpiarca,1.0,1.0
+Rua dos Estevais,rua estevais,7885-272,7885-272,Póvoa de São Miguel,porto de mos,1.0,1.0
+Rua Cândido dos Reis,rua candido reis,7300-129,7300-129,Portalegre,portalegre,1.0,1.0
+Largo Dom João de Aboim,largo dom joao aboim,7350-501,7350-501,Vila Boim,vila nova de foz coa,1.0,1.0
+Caminho Maiata,caminho maiata,9225-190,9225-190,,,0.75,0.75
+Caminho da Ordem,caminho ordem,,,,,0.25,0.25
+Rua do Povo Unido,rua povo unido,7630-017,7630-017,Almograve,,1.0,0.75
+Estrada Velha da Camacha,estrada velha camacha,,,,,0.5,0.5
+Rua da Senhora das Neves,rua senhora neves,4760-485,4760-485,Fradelos,,1.0,0.75
+Avenida Maestro Jorge Peixinho,avenida maestro jorge peixinho,2870-426,2870-426,Montijo,montijo,0.75,0.75
+Rua das Eiras,rua eiras,2725-294,2725-294,Mem Martins,,1.0,0.75

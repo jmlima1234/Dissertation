@@ -1,0 +1,18 @@
+{
+  "precision": 0.6402238883322392,
+  "recall": 0.9265,
+  "f1_score": 0.7572073636679403,
+  "accuracy": 0.702925,
+  "true_positives": 18530,
+  "false_positives": 10413,
+  "false_negatives": 1470,
+  "true_negatives": 9587,
+  "mean_similarity_positive": 0.7962132338395504,
+  "mean_similarity_negative": 0.5436983987970568,
+  "similarity_separation": 0.2525148350424936,
+  "algorithm_name": "TF-IDF (Optimal)",
+  "threshold": 0.5500000000000002,
+  "avg_processing_time": 0.0013655684530735016,
+  "total_processing_time": 54.62273812294006,
+  "pairs_per_second": 732.2957686590429
+}

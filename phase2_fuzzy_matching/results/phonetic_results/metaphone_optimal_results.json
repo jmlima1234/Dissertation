@@ -1,0 +1,18 @@
+{
+  "precision": 0.7205767250257467,
+  "recall": 0.8746,
+  "f1_score": 0.7901524562394128,
+  "accuracy": 0.767725,
+  "true_positives": 17492,
+  "false_positives": 6783,
+  "false_negatives": 2508,
+  "true_negatives": 13217,
+  "mean_similarity_positive": 0.774462481962482,
+  "mean_similarity_negative": 0.40382236874236876,
+  "similarity_separation": 0.37064011322011325,
+  "algorithm_name": "Metaphone (Optimal)",
+  "threshold": 0.45000000000000007,
+  "avg_processing_time": 6.071119904518127e-05,
+  "total_processing_time": 2.428447961807251,
+  "pairs_per_second": 16471.425630315753
+}

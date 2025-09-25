@@ -1,0 +1,42 @@
+{
+  "dataset_overview": {
+    "total_elements": 2554600,
+    "memory_usage_mb": 1424.8095960617065,
+    "element_types": {
+      "way": 2041373,
+      "node": 513227
+    }
+  },
+  "address_coverage": {
+    "elements_with_addresses": 651161,
+    "elements_with_buildings": 2025546,
+    "buildings_with_addresses": 122107,
+    "address_coverage_percent": 25.489743991231506,
+    "building_address_percent": 6.028349886894694
+  },
+  "data_quality": {
+    "valid_geometries": 2554383,
+    "valid_geometry_percent": 99.9915055194551,
+    "source_attributed_elements": 139904,
+    "complete_addresses": 87944,
+    "partial_addresses": 27461
+  },
+  "geographic_extent": {
+    "longitude_range": [
+      -31.2663291,
+      -6.183476400969077
+    ],
+    "latitude_range": [
+      32.51325456153997,
+      42.15968281409542
+    ],
+    "center_point": [
+      -10.127758807300648,
+      38.833448474762854
+    ],
+    "coverage_degrees": [
+      25.082852699030923,
+      9.646428252555445
+    ]
+  }
+}

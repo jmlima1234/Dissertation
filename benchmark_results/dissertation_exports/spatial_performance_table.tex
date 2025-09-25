@@ -1,0 +1,31 @@
+\begin{table}[htbp]
+\caption{Spatial Index (GiST) Performance Improvements}
+\label{tab:spatial_performance}
+\begin{tabular}{lccccc}
+\toprule
+Test Name & Complexity & Region & Speedup Factor & Time Reduction Pct & Is Significant \\
+\midrule
+lisboa_center_500m & simple & lisboa & 0.78 & -27.65 & False \\
+porto_center_1km & simple & porto & 1.00 & 0.18 & False \\
+lisboa_bbox_medium & medium & lisboa & 1.68 & 40.39 & False \\
+porto_bbox_medium & medium & porto & 1.80 & 44.58 & True \\
+distance_calculation_complex & complex & nationwide & 1.00 & -0.32 & False \\
+nearest_neighbor_complex & complex & lisboa & 913.78 & 99.89 & True \\
+large_area_query & complex & nationwide & 1.12 & 11.07 & True \\
+lisboa_center_500m & simple & lisboa & 0.83 & -20.03 & False \\
+porto_center_1km & simple & porto & 1.07 & 6.68 & True \\
+lisboa_bbox_medium & medium & lisboa & 2.45 & 59.17 & True \\
+porto_bbox_medium & medium & porto & 1.55 & 35.66 & False \\
+distance_calculation_complex & complex & nationwide & 1.07 & 6.56 & False \\
+nearest_neighbor_complex & complex & lisboa & 1.03 & 2.63 & False \\
+large_area_query & complex & nationwide & 1.04 & 4.11 & False \\
+lisboa_center_500m & simple & lisboa & 0.86 & -16.06 & False \\
+porto_center_1km & simple & porto & 0.92 & -8.46 & False \\
+lisboa_bbox_medium & medium & lisboa & 1.03 & 3.00 & False \\
+porto_bbox_medium & medium & porto & 0.96 & -4.05 & False \\
+distance_calculation_complex & complex & nationwide & 1.03 & 3.27 & False \\
+nearest_neighbor_complex & complex & lisboa & 1.13 & 11.42 & True \\
+large_area_query & complex & nationwide & 1.06 & 5.58 & False \\
+\bottomrule
+\end{tabular}
+\end{table}

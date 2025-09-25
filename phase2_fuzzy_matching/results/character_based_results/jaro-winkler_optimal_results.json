@@ -1,0 +1,18 @@
+{
+  "precision": 0.6719144881302564,
+  "recall": 0.8109,
+  "f1_score": 0.7348936266624374,
+  "accuracy": 0.707475,
+  "true_positives": 16218,
+  "false_positives": 7919,
+  "false_negatives": 3782,
+  "true_negatives": 12081,
+  "mean_similarity_positive": 0.907207993811153,
+  "mean_similarity_negative": 0.8045293423668685,
+  "similarity_separation": 0.10267865144428456,
+  "algorithm_name": "Jaro-Winkler (Optimal)",
+  "threshold": 0.8500000000000002,
+  "avg_processing_time": 0.00015314818620681763,
+  "total_processing_time": 6.125927448272705,
+  "pairs_per_second": 6529.623528479526
+}

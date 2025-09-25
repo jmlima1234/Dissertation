@@ -1,0 +1,26 @@
+{
+  "improvement_stats": {
+    "avg_original": 0.8213230101226753,
+    "avg_improved": 0.7674138787894641,
+    "improvement_percent": -6.5636942675159125,
+    "success_rate": 0.7618163270644241
+  },
+  "field_improvements": {
+    "street_normalized": 0,
+    "postcode_normalized": 0,
+    "city_normalized": 0,
+    "total_corrections": 0
+  },
+  "success_metrics": {
+    "total_processed": 38231,
+    "success_records": 38231,
+    "overall_success_rate": 1.0,
+    "processing_speed": 2272.4968809302713,
+    "failed_cases": 0
+  },
+  "processing_info": {
+    "processing_time_seconds": 16.82334542274475,
+    "records_processed": 38231,
+    "processing_rate": 2272.4968809302713
+  }
+}

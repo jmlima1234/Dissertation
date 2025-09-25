@@ -1,0 +1,13 @@
+Metric,Value
+Records Processed,"38,231"
+Processing Speed (records/sec),2272
+Original Completeness (avg),82.13%
+Improved Completeness (avg),76.74%
+Absolute Improvement,-5.39%
+Relative Improvement (%),-6.6%
+Records ≥75% Complete (%),76.2%
+Total Corrections Applied,0
+Street Normalization Success,0.0%
+Postcode Normalization Success,0.0%
+City Normalization Success,0.0%
+Overall Success Rate,100.0%

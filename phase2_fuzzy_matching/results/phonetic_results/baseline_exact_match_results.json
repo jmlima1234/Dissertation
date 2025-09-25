@@ -1,0 +1,18 @@
+{
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "accuracy": 0.499925,
+  "true_positives": 0,
+  "false_positives": 3,
+  "false_negatives": 20000,
+  "true_negatives": 19997,
+  "mean_similarity_positive": 0.0,
+  "mean_similarity_negative": 0.00015,
+  "similarity_separation": -0.00015,
+  "algorithm_name": "Baseline (Exact Match)",
+  "threshold": 0.5,
+  "avg_processing_time": 1.4970839023590089e-06,
+  "total_processing_time": 0.05988335609436035,
+  "pairs_per_second": 667965.2345631826
+}

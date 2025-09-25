@@ -1,0 +1,16 @@
+{
+  "experiment_name": "Phase 2 - Experiment 2.1: Character-Based Fuzzy Matching",
+  "date": "2025-09-11T16:09:10.528616",
+  "test_pairs_count": 40000,
+  "algorithms_tested": [
+    "Baseline (Exact Match)",
+    "Levenshtein Distance",
+    "Jaro-Winkler Distance"
+  ],
+  "best_algorithm": "Levenshtein (Optimal)",
+  "best_f1_score": 0.7488232777064614,
+  "optimal_thresholds": {
+    "levenshtein": 0.6500000000000001,
+    "jaro_winkler": 0.8500000000000002
+  }
+}

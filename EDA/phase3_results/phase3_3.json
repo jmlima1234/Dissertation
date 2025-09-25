@@ -1,0 +1,83 @@
+{
+  "address_completeness": {
+    "total_addressed_elements": 651161,
+    "basic_complete": 533467,
+    "standard_complete": 391880,
+    "full_complete": 372088,
+    "complete_complete": 18658,
+    "completeness_percentages": {
+      "basic": 81.9255145808794,
+      "standard": 60.18173692834799,
+      "full": 57.14224285545356,
+      "complete": 2.865343593980598
+    }
+  },
+  "essential_components": {
+    "addr:street": {
+      "count": 591663,
+      "percentage": 90.86278201550768
+    },
+    "addr:housenumber": {
+      "count": 555919,
+      "percentage": 85.3735097771519
+    },
+    "addr:postcode": {
+      "count": 528757,
+      "percentage": 81.20219116316856
+    },
+    "addr:city": {
+      "count": 456627,
+      "percentage": 70.125053558183
+    },
+    "addr:country": {
+      "count": 38524,
+      "percentage": 5.9162019838411695
+    }
+  },
+  "street_analysis": {
+    "total_streets": 591663,
+    "prefix_variations": 10,
+    "standardization_opportunities": 16,
+    "unmatched_streets": 66759
+  },
+  "postal_code_analysis": {
+    "total_postcodes": 528757,
+    "standard_format": 520411,
+    "non_standard": 8346,
+    "format_distribution": {
+      "Standard (XXXX-XXX)": 520411,
+      "No Dash (XXXXXXX)": 24,
+      "Partial (XXXX)": 6250,
+      "With Spaces": 60,
+      "Extra Digits": 17,
+      "Invalid Format": 1995
+    }
+  },
+  "city_analysis": {
+    "total_cities": 456627,
+    "unique_cities": 1,
+    "similar_groups": 86,
+    "major_cities_found": 18
+  },
+  "house_number_analysis": {
+    "total_numbers": 555919,
+    "format_distribution": {
+      "Simple Number": 492908,
+      "Number with Letter": 23537,
+      "Range (1-3)": 1701,
+      "Complex (1A-1B)": 23,
+      "Fraction (1/2)": 799,
+      "Multiple (1,3,5)": 2127,
+      "Floor/Unit": 11,
+      "Other Format": 34813
+    },
+    "simple_formats": 516445,
+    "complex_formats": 39474
+  },
+  "structural_analysis": {
+    "by_element_type": {
+      "node": 512356,
+      "way": 138805
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "experiment_name": "Phase 2 - Experiment 2.2: Token-Based Fuzzy Matching",
+  "date": "2025-09-12T11:11:04.405268",
+  "test_pairs_count": 40000,
+  "algorithms_tested": [
+    "Baseline (Exact Match)",
+    "Jaccard Similarity",
+    "TF-IDF Cosine Similarity"
+  ],
+  "best_algorithm": "Jaccard (Optimal)",
+  "best_f1_score": 0.8339849477079463,
+  "optimal_thresholds": {
+    "jaccard": 0.5500000000000002,
+    "tfidf": 0.5500000000000002
+  }
+}

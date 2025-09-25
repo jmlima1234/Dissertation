@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run benchmark: quadtree vs postgis",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"src.benchmark_quadtree"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$python"
+			],
+			"group": "test"
+		}
+	]
+}

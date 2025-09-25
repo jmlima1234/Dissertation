@@ -1,0 +1,18 @@
+{
+  "precision": 0.7216146997845441,
+  "recall": 0.88755,
+  "f1_score": 0.7960268167447702,
+  "accuracy": 0.772575,
+  "true_positives": 17751,
+  "false_positives": 6848,
+  "false_negatives": 2249,
+  "true_negatives": 13152,
+  "mean_similarity_positive": 0.7889006367243867,
+  "mean_similarity_negative": 0.406941336996337,
+  "similarity_separation": 0.3819592997280497,
+  "algorithm_name": "Soundex (Optimal)",
+  "threshold": 0.45000000000000007,
+  "avg_processing_time": 6.492730975151062e-05,
+  "total_processing_time": 2.597092390060425,
+  "pairs_per_second": 15401.839439015625
+}

@@ -1,0 +1,62 @@
+{
+  "soundex": {
+    "precision": 0.7216146997845441,
+    "recall": 0.88755,
+    "f1_score": 0.7960268167447702,
+    "accuracy": 0.772575,
+    "true_positives": 17751,
+    "false_positives": 6848,
+    "false_negatives": 2249,
+    "true_negatives": 13152,
+    "mean_similarity_positive": 0.7889006367243867,
+    "mean_similarity_negative": 0.406941336996337,
+    "similarity_separation": 0.3819592997280497,
+    "threshold": 0.45000000000000007,
+    "algorithm_name": "Soundex"
+  },
+  "metaphone": {
+    "precision": 0.7205767250257467,
+    "recall": 0.8746,
+    "f1_score": 0.7901524562394128,
+    "accuracy": 0.767725,
+    "true_positives": 17492,
+    "false_positives": 6783,
+    "false_negatives": 2508,
+    "true_negatives": 13217,
+    "mean_similarity_positive": 0.774462481962482,
+    "mean_similarity_negative": 0.40382236874236876,
+    "similarity_separation": 0.37064011322011325,
+    "threshold": 0.45000000000000007,
+    "algorithm_name": "Metaphone"
+  },
+  "nysiis": {
+    "precision": 0.7154138637028371,
+    "recall": 0.8561,
+    "f1_score": 0.779459631711925,
+    "accuracy": 0.757775,
+    "true_positives": 17122,
+    "false_positives": 6811,
+    "false_negatives": 2878,
+    "true_negatives": 13189,
+    "mean_similarity_positive": 0.756781636002886,
+    "mean_similarity_negative": 0.4060721661671661,
+    "similarity_separation": 0.3507094698357198,
+    "threshold": 0.45000000000000007,
+    "algorithm_name": "NYSIIS"
+  },
+  "double_metaphone": {
+    "precision": 0,
+    "recall": 0.0,
+    "f1_score": 0,
+    "accuracy": 0.5,
+    "true_positives": 0,
+    "false_positives": 0,
+    "false_negatives": 20000,
+    "true_negatives": 20000,
+    "mean_similarity_positive": 0.0,
+    "mean_similarity_negative": 0.0,
+    "similarity_separation": 0.0,
+    "threshold": 0.1,
+    "algorithm_name": "Double Metaphone"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "precision": 0.6812686964717453,
+  "recall": 0.83125,
+  "f1_score": 0.7488232777064614,
+  "accuracy": 0.721175,
+  "true_positives": 16625,
+  "false_positives": 7778,
+  "false_negatives": 3375,
+  "true_negatives": 12222,
+  "mean_similarity_positive": 0.7547384743366056,
+  "mean_similarity_negative": 0.627019497100801,
+  "similarity_separation": 0.1277189772358046,
+  "algorithm_name": "Levenshtein (Optimal)",
+  "threshold": 0.6500000000000001,
+  "avg_processing_time": 0.0009823560059070587,
+  "total_processing_time": 39.29424023628235,
+  "pairs_per_second": 1017.9608960365134
+}
