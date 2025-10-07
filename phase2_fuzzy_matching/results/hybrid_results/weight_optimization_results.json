@@ -1,0 +1,103 @@
+{
+  "levenshtein_jaccard": {
+    "weights": {
+      "levenshtein": 0.9,
+      "jaccard": 0.09999999999999998
+    },
+    "f1_score": 0.6189349112426036,
+    "result": {
+      "precision": 0.7314685314685314,
+      "recall": 0.5364102564102564,
+      "f1_score": 0.6189349112426036,
+      "accuracy": 0.678,
+      "true_positives": 523,
+      "false_positives": 192,
+      "false_negatives": 452,
+      "true_negatives": 833,
+      "mean_similarity_positive": 0.7482937157215744,
+      "mean_similarity_negative": 0.6024607830261675,
+      "similarity_separation": 0.14583293269540698,
+      "algorithm_name": "Optimized_8",
+      "threshold": 0.75,
+      "avg_processing_time": 0.0008508394956588746,
+      "total_processing_time": 1.701678991317749,
+      "pairs_per_second": 1175.3098029677365
+    }
+  },
+  "jaro_winkler_tfidf": {
+    "weights": {
+      "jaro_winkler": 0.7000000000000001,
+      "tfidf": 0.29999999999999993
+    },
+    "f1_score": 0.8018623900672528,
+    "result": {
+      "precision": 0.8089770354906054,
+      "recall": 0.7948717948717948,
+      "f1_score": 0.8018623900672528,
+      "accuracy": 0.8085,
+      "true_positives": 775,
+      "false_positives": 183,
+      "false_negatives": 200,
+      "true_negatives": 842,
+      "mean_similarity_positive": 0.8240939979205524,
+      "mean_similarity_negative": 0.6528965473705228,
+      "similarity_separation": 0.17119745055002955,
+      "algorithm_name": "Optimized_6",
+      "threshold": 0.75,
+      "avg_processing_time": 0.001999535322189331,
+      "total_processing_time": 3.999070644378662,
+      "pairs_per_second": 500.11619644962315
+    }
+  },
+  "jaccard_metaphone": {
+    "weights": {
+      "jaccard": 0.5,
+      "metaphone": 0.5
+    },
+    "f1_score": 0.6894519740718916,
+    "result": {
+      "precision": 0.8102493074792244,
+      "recall": 0.6,
+      "f1_score": 0.6894519740718916,
+      "accuracy": 0.7365,
+      "true_positives": 585,
+      "false_positives": 137,
+      "false_negatives": 390,
+      "true_negatives": 888,
+      "mean_similarity_positive": 0.7461504862658709,
+      "mean_similarity_negative": 0.39645007017532125,
+      "similarity_separation": 0.34970041609054964,
+      "algorithm_name": "Optimized_4",
+      "threshold": 0.75,
+      "avg_processing_time": 0.00012411630153656006,
+      "total_processing_time": 0.24823260307312012,
+      "pairs_per_second": 8056.959380999901
+    }
+  },
+  "levenshtein_jaccard_metaphone": {
+    "weights": {
+      "levenshtein": 0.2,
+      "jaccard": 0.4,
+      "metaphone": 0.4
+    },
+    "f1_score": 0.6825491363907088,
+    "result": {
+      "precision": 0.8139204545454546,
+      "recall": 0.5876923076923077,
+      "f1_score": 0.6825491363907088,
+      "accuracy": 0.7335,
+      "true_positives": 573,
+      "false_positives": 131,
+      "false_negatives": 402,
+      "true_negatives": 894,
+      "mean_similarity_positive": 0.7475335496491423,
+      "mean_similarity_negative": 0.4425601199556797,
+      "similarity_separation": 0.30497342969346264,
+      "algorithm_name": "Optimized_1",
+      "threshold": 0.75,
+      "avg_processing_time": 0.0009552582502365113,
+      "total_processing_time": 1.9105165004730225,
+      "pairs_per_second": 1046.8373340428216
+    }
+  }
+}

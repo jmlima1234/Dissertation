@@ -1,20 +1,17 @@
 {
   "experiment_name": "Phase 2 - Experiment 2.3: Phonetic-Based Fuzzy Matching",
-  "date": "2025-09-12T11:31:33.885017",
+  "date": "2025-09-30T13:54:58.027177",
   "test_pairs_count": 40000,
   "algorithms_tested": [
-    "Baseline (Exact Match)",
     "Soundex",
     "Metaphone",
-    "NYSIIS",
-    "Double Metaphone"
+    "NYSIIS"
   ],
   "best_algorithm": "Soundex (Optimal)",
   "best_f1_score": 0.7960268167447702,
   "optimal_thresholds": {
     "soundex": 0.45000000000000007,
     "metaphone": 0.45000000000000007,
-    "nysiis": 0.45000000000000007,
-    "double_metaphone": 0.1
+    "nysiis": 0.45000000000000007
   }
 }

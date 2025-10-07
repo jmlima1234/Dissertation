@@ -12,7 +12,7 @@
   "similarity_separation": 0.3507094698357198,
   "algorithm_name": "NYSIIS (Optimal)",
   "threshold": 0.45000000000000007,
-  "avg_processing_time": 6.037593483924866e-05,
-  "total_processing_time": 2.4150373935699463,
-  "pairs_per_second": 16562.89054012177
+  "avg_processing_time": 4.6350342035293577e-05,
+  "total_processing_time": 1.8540136814117432,
+  "pairs_per_second": 21574.81382205438
 }

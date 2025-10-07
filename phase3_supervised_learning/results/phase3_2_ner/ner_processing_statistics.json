@@ -1,0 +1,9 @@
+{
+  "total_pairs": 40000,
+  "successful_pairs": 22652,
+  "failed_pairs": 17348,
+  "average_entities_per_address": 2.1751,
+  "most_common_entities": [],
+  "processing_speed": 11.468997721600653,
+  "processing_time": 3487.663087129593
+}

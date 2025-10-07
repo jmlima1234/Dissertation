@@ -1,0 +1,12 @@
+{
+  "feature_categories": {
+    "Original": 13,
+    "Phase 2": 5,
+    "Component": 13,
+    "NER": 37,
+    "Statistical": 10,
+    "Interaction": 11
+  },
+  "total_features": 89,
+  "total_pairs": 40000
+}

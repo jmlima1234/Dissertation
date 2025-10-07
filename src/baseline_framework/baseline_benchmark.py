@@ -27,6 +27,7 @@ from pathlib import Path
 # Import our modules
 from src.baseline_framework.search_api import HybridAddressSearch, SearchResult
 from baseline_test_suite import BaselineTestSuite, TestQuery, QueryCategory, DifficultyLevel
+from src.baseline_framework.enhanced_accuracy_evaluator import EnhancedAccuracyEvaluator
 
 # Configure logging
 logging.basicConfig(

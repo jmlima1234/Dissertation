@@ -12,7 +12,7 @@
   "similarity_separation": 0.1277189772358046,
   "algorithm_name": "Levenshtein (Optimal)",
   "threshold": 0.6500000000000001,
-  "avg_processing_time": 0.0009823560059070587,
-  "total_processing_time": 39.29424023628235,
-  "pairs_per_second": 1017.9608960365134
+  "avg_processing_time": 0.0006121990919113159,
+  "total_processing_time": 24.487963676452637,
+  "pairs_per_second": 1633.4555428332153
 }

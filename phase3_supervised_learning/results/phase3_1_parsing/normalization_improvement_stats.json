@@ -1,0 +1,18 @@
+{
+  "preprocessing_applied": 184389,
+  "case_fixes": 174083,
+  "punctuation_removed": 63909,
+  "whitespace_normalized": 378,
+  "encoding_fixes": 2,
+  "eda_baseline": {
+    "total_addresses": 847000,
+    "completeness_rate": 0.3,
+    "prefix_variations": 42,
+    "capitalization_issues_rate": 0.67,
+    "encoding_issues_rate": 0.23,
+    "invalid_postal_rate": 0.22
+  },
+  "case_fix_rate": 0.944107294903709,
+  "punctuation_removal_rate": 0.3465987667377121,
+  "encoding_fix_rate": 1.0846634018298272e-05
+}

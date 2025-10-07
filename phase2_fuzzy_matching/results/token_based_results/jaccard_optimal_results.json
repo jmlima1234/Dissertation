@@ -12,7 +12,7 @@
   "similarity_separation": 0.3217342796464371,
   "algorithm_name": "Jaccard (Optimal)",
   "threshold": 0.5500000000000002,
-  "avg_processing_time": 6.971885561943054e-05,
-  "total_processing_time": 2.7887542247772217,
-  "pairs_per_second": 14343.322062809382
+  "avg_processing_time": 2.4562305212020875e-05,
+  "total_processing_time": 0.982492208480835,
+  "pairs_per_second": 40712.791058006915
 }

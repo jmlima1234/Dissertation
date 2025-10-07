@@ -1,0 +1,72 @@
+{
+  "processing_summary": {
+    "total_pairs": 40000,
+    "processing_time_seconds": 2460.591719150543,
+    "processing_speed_pairs_per_second": 16.25625238380018,
+    "total_ner_features": 10
+  },
+  "feature_coverage": {
+    "pairs_with_entities": 39517,
+    "pairs_with_entities_percentage": 98.7925,
+    "both_have_entities": 37391,
+    "both_have_entities_percentage": 93.4775
+  },
+  "similarity_distribution": {
+    "high_similarity_pairs": 8080,
+    "medium_similarity_pairs": 27447,
+    "low_similarity_pairs": 4473,
+    "mean_location_similarity": 0.4787096726190476
+  },
+  "feature_statistics": {
+    "ner_loc_similarity": {
+      "mean": 0.4787096726190476,
+      "std": 0.29270964882523237,
+      "non_zero_count": 35539
+    },
+    "ner_road_loc_similarity": {
+      "mean": 0.59445,
+      "std": 0.4909661125710127,
+      "non_zero_count": 23781
+    },
+    "ner_city_loc_similarity": {
+      "mean": 0.841475,
+      "std": 0.3651344375075245,
+      "non_zero_count": 33665
+    },
+    "ner_address1_loc_count": {
+      "mean": 1.80055,
+      "std": 0.5595779889239231,
+      "non_zero_count": 39152
+    },
+    "ner_address2_loc_count": {
+      "mean": 1.50425,
+      "std": 0.6691734695341024,
+      "non_zero_count": 37756
+    },
+    "ner_entity_count_diff": {
+      "mean": 0.4773,
+      "std": 0.5474871720461484,
+      "non_zero_count": 18147
+    },
+    "ner_has_location_entities": {
+      "mean": null,
+      "std": null,
+      "non_zero_count": 39517
+    },
+    "ner_both_have_locations": {
+      "mean": null,
+      "std": null,
+      "non_zero_count": 37391
+    },
+    "ner_shared_entities": {
+      "mean": 1.00375,
+      "std": 0.5172452281709824,
+      "non_zero_count": 35056
+    },
+    "ner_total_unique_entities": {
+      "mean": 2.30105,
+      "std": 0.7918867182964778,
+      "non_zero_count": 39517
+    }
+  }
+}

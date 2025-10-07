@@ -1,0 +1,291 @@
+{
+  "total_ner_features": 37,
+  "feature_statistics": {
+    "ner_gpe_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_loc_similarity": {
+      "mean": 0.21582895833333332,
+      "std": 0.26034128504379517,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 19410,
+      "non_zero_percentage": 48.525
+    },
+    "ner_misc_similarity": {
+      "mean": 0.48695,
+      "std": 0.49910387207161394,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 19541,
+      "non_zero_percentage": 48.8525
+    },
+    "ner_person_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_org_similarity": {
+      "mean": 0.551525,
+      "std": 0.49733173822554916,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22062,
+      "non_zero_percentage": 55.155
+    },
+    "ner_overall_entity_similarity": {
+      "mean": 0.42302631944444435,
+      "std": 0.3826059496219206,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_road_gpe_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_road_loc_similarity": {
+      "mean": 0.265075,
+      "std": 0.4413644915943749,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 10604,
+      "non_zero_percentage": 26.51
+    },
+    "ner_road_misc_similarity": {
+      "mean": 0.56215,
+      "std": 0.4961285429082641,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22486,
+      "non_zero_percentage": 56.215
+    },
+    "ner_road_person_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_road_org_similarity": {
+      "mean": 0.5625,
+      "std": 0.49608457192051686,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22500,
+      "non_zero_percentage": 56.25
+    },
+    "ner_road_overall_entity_similarity": {
+      "mean": 0.4645083333333333,
+      "std": 0.42575310518329734,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_city_gpe_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_city_loc_similarity": {
+      "mean": 0.5059375,
+      "std": 0.4999397409562123,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 20240,
+      "non_zero_percentage": 50.6
+    },
+    "ner_city_misc_similarity": {
+      "mean": 0.56045,
+      "std": 0.4963385500834158,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22418,
+      "non_zero_percentage": 56.045
+    },
+    "ner_city_person_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_city_org_similarity": {
+      "mean": 0.56525,
+      "std": 0.49573035131463394,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22610,
+      "non_zero_percentage": 56.525000000000006
+    },
+    "ner_city_overall_entity_similarity": {
+      "mean": 0.5442291666666667,
+      "std": 0.48406157762052104,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_normalized_gpe_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_normalized_loc_similarity": {
+      "mean": 0.18944166666666667,
+      "std": 0.38745338019236586,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 7894,
+      "non_zero_percentage": 19.735
+    },
+    "ner_normalized_misc_similarity": {
+      "mean": 0.5495,
+      "std": 0.49753737405944154,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 21981,
+      "non_zero_percentage": 54.9525
+    },
+    "ner_normalized_person_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_normalized_org_similarity": {
+      "mean": 0.5537,
+      "std": 0.4971141599896361,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22148,
+      "non_zero_percentage": 55.37
+    },
+    "ner_normalized_overall_entity_similarity": {
+      "mean": 0.43508055555555547,
+      "std": 0.4000007692989711,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_countries_hierarchy_similarity": {
+      "mean": 0.566075,
+      "std": 0.49562106026770547,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22643,
+      "non_zero_percentage": 56.6075
+    },
+    "ner_regions_hierarchy_similarity": {
+      "mean": 0.5437333333333334,
+      "std": 0.49803417648894716,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 21754,
+      "non_zero_percentage": 54.38499999999999
+    },
+    "ner_cities_hierarchy_similarity": {
+      "mean": 0.4116309523809524,
+      "std": 0.4559265296494194,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 19581,
+      "non_zero_percentage": 48.9525
+    },
+    "ner_streets_hierarchy_similarity": {
+      "mean": 0.159075,
+      "std": 0.3655967531306145,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 6372,
+      "non_zero_percentage": 15.93
+    },
+    "ner_districts_hierarchy_similarity": {
+      "mean": 0.5663,
+      "std": 0.4955910110779417,
+      "min": 0.0,
+      "max": 1.0,
+      "non_zero_count": 22652,
+      "non_zero_percentage": 56.63
+    },
+    "ner_address1_total_entities": {
+      "mean": 1.10395,
+      "std": 1.2450233530254522,
+      "min": 0.0,
+      "max": 6.0,
+      "non_zero_count": 21123,
+      "non_zero_percentage": 52.8075
+    },
+    "ner_address2_total_entities": {
+      "mean": 1.07115,
+      "std": 1.2200102000074438,
+      "min": 0.0,
+      "max": 6.0,
+      "non_zero_count": 20940,
+      "non_zero_percentage": 52.349999999999994
+    },
+    "ner_address1_unique_entities": {
+      "mean": 1.0102,
+      "std": 1.1338554143728017,
+      "min": 0.0,
+      "max": 5.0,
+      "non_zero_count": 21123,
+      "non_zero_percentage": 52.8075
+    },
+    "ner_address2_unique_entities": {
+      "mean": 0.98205,
+      "std": 1.1135119196577468,
+      "min": 0.0,
+      "max": 6.0,
+      "non_zero_count": 20940,
+      "non_zero_percentage": 52.349999999999994
+    },
+    "ner_entity_count_difference": {
+      "mean": 0.43355,
+      "std": 0.7135454618860346,
+      "min": 0.0,
+      "max": 5.0,
+      "non_zero_count": 12369,
+      "non_zero_percentage": 30.922500000000003
+    },
+    "ner_shared_entity_count": {
+      "mean": 0.504,
+      "std": 0.5998691491274593,
+      "min": 0.0,
+      "max": 4.0,
+      "non_zero_count": 18061,
+      "non_zero_percentage": 45.1525
+    }
+  },
+  "similarity_feature_stats": {
+    "high_similarity_pairs": 22652,
+    "medium_similarity_pairs": 22139,
+    "low_similarity_pairs": 17348
+  },
+  "entity_count_stats": {}
+}

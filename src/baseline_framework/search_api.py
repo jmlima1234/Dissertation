@@ -39,7 +39,7 @@ import psycopg2.extras
 from elasticsearch import Elasticsearch
 
 # Add src directory to path for normalization
-sys.path.append(str(Path(__file__).resolve().parent / "src"))
+sys.path.append(str(Path(__file__).resolve().parent.parent))
 from normalization import AddressNormalizer
 
 load_dotenv()

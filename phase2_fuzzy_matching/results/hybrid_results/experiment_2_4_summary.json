@@ -1,0 +1,23 @@
+{
+  "experiment_name": "Phase 2 - Experiment 2.4: Rule-Based Hybrid Methods",
+  "date": "2025-10-01T12:08:29.448791",
+  "test_pairs_count": 40000,
+  "algorithms_tested": {
+    "individual_baselines": 7,
+    "regular_hybrids": 15,
+    "optimized_hybrids": 4
+  },
+  "best_overall_method": {
+    "name": "Jaccard (Baseline)",
+    "f1_score": 0.8262674101800219,
+    "precision": 0.8418512945571525,
+    "recall": 0.81125
+  },
+  "phase2_completion": {
+    "character_based_completed": true,
+    "token_based_completed": true,
+    "phonetic_based_completed": true,
+    "hybrid_methods_completed": true,
+    "phase2_status": "COMPLETE"
+  }
+}

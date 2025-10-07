@@ -266,9 +266,52 @@ class TfIdfMatcher:
             Cosine similarity score between 0 and 1
         """
         if not self.is_fitted:
-            # Fit on the two addresses if not fitted
-            self.fit([addr1, addr2])
+            # For small document sets, use more permissive parameters
+            # to avoid "After pruning, no terms remain" warnings
+            temp_vectorizer = TfidfVectorizer(
+                max_features=self.vectorizer.max_features,
+                ngram_range=self.vectorizer.ngram_range,
+                min_df=1,  # Always include terms that appear at least once
+                max_df=1.0,  # Don't exclude any terms for small document sets
+                token_pattern=self.vectorizer.token_pattern,
+                lowercase=self.vectorizer.lowercase,
+                stop_words=self.vectorizer.stop_words
+            )
+            
+            # Preprocess addresses
+            prep1 = self.preprocess_address(addr1)
+            prep2 = self.preprocess_address(addr2)
+            
+            # Handle empty addresses
+            if not prep1.strip() and not prep2.strip():
+                return 1.0
+            if not prep1.strip() or not prep2.strip():
+                return 0.0
+            
+            # Filter out empty addresses
+            docs = [doc for doc in [prep1, prep2] if doc.strip()]
+            if len(docs) < 2:
+                return 0.0
+            
+            try:
+                # Fit and transform with permissive parameters
+                vectors = temp_vectorizer.fit_transform(docs)
+                
+                # Calculate cosine similarity
+                if vectors.shape[0] >= 2:
+                    sim_matrix = cosine_similarity(vectors)
+                    similarity = sim_matrix[0, 1] if vectors.shape[0] == 2 else 0.0
+                else:
+                    similarity = 0.0
+                
+                # Ensure result is between 0 and 1
+                return max(0.0, min(1.0, similarity))
+                
+            except (ValueError, AttributeError):
+                # Handle case where addresses have no valid tokens
+                return 0.0
         
+        # Use fitted vectorizer for normal operation
         # Preprocess addresses
         prep1 = self.preprocess_address(addr1)
         prep2 = self.preprocess_address(addr2)

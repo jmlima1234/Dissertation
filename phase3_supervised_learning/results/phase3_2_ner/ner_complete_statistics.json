@@ -1,0 +1,87 @@
+{
+  "processing_info": {
+    "total_pairs": 40000,
+    "processing_time_seconds": 2450.3743810653687,
+    "processing_speed_pairs_per_second": 16.324036159163924,
+    "total_ner_features": 12
+  },
+  "feature_statistics": {
+    "ner_loc_similarity": {
+      "mean": 0.4787096726190476,
+      "std": 0.29270964882523237,
+      "non_zero_count": 35539,
+      "non_zero_percentage": 88.8475
+    },
+    "ner_person_similarity": {
+      "mean": 0.8215645833333333,
+      "std": 0.3793598279900457,
+      "non_zero_count": 33094,
+      "non_zero_percentage": 82.735
+    },
+    "ner_road_loc_similarity": {
+      "mean": 0.59445,
+      "std": 0.4909661125710127,
+      "non_zero_count": 23781,
+      "non_zero_percentage": 59.4525
+    },
+    "ner_city_loc_similarity": {
+      "mean": 0.841475,
+      "std": 0.3651344375075245,
+      "non_zero_count": 33665,
+      "non_zero_percentage": 84.1625
+    },
+    "ner_address1_loc_count": {
+      "mean": 1.80055,
+      "std": 0.5595779889239231,
+      "non_zero_count": 39152,
+      "non_zero_percentage": 97.88
+    },
+    "ner_address2_loc_count": {
+      "mean": 1.50425,
+      "std": 0.6691734695341024,
+      "non_zero_count": 37756,
+      "non_zero_percentage": 94.39
+    },
+    "ner_address1_person_count": {
+      "mean": 0.1684,
+      "std": 0.4014292822362563,
+      "non_zero_count": 6323,
+      "non_zero_percentage": 15.8075
+    },
+    "ner_address2_person_count": {
+      "mean": 0.201475,
+      "std": 0.4355313611718037,
+      "non_zero_count": 7498,
+      "non_zero_percentage": 18.745
+    },
+    "ner_total_entities_diff": {
+      "mean": 0.404925,
+      "std": 0.526799470687906,
+      "non_zero_count": 15515,
+      "non_zero_percentage": 38.7875
+    },
+    "ner_has_location_entities": {
+      "mean": null,
+      "std": null,
+      "non_zero_count": 39517,
+      "non_zero_percentage": 98.7925
+    },
+    "ner_both_have_locations": {
+      "mean": null,
+      "std": null,
+      "non_zero_count": 37391,
+      "non_zero_percentage": 93.4775
+    },
+    "ner_overall_similarity": {
+      "mean": 0.6501371279761905,
+      "std": 0.23465982689663975,
+      "non_zero_count": 38725,
+      "non_zero_percentage": 96.8125
+    }
+  },
+  "similarity_analysis": {
+    "high_location_similarity_pairs": 7515,
+    "high_overall_similarity_pairs": 16178,
+    "entity_coverage_percentage": 98.7925
+  }
+}

@@ -1,9 +1,8 @@
 {
   "experiment_name": "Phase 2 - Experiment 2.1: Character-Based Fuzzy Matching",
-  "date": "2025-09-11T16:09:10.528616",
+  "date": "2025-09-30T13:09:39.139530",
   "test_pairs_count": 40000,
   "algorithms_tested": [
-    "Baseline (Exact Match)",
     "Levenshtein Distance",
     "Jaro-Winkler Distance"
   ],

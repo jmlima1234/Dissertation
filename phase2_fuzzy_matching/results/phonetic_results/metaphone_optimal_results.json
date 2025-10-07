@@ -12,7 +12,7 @@
   "similarity_separation": 0.37064011322011325,
   "algorithm_name": "Metaphone (Optimal)",
   "threshold": 0.45000000000000007,
-  "avg_processing_time": 6.071119904518127e-05,
-  "total_processing_time": 2.428447961807251,
-  "pairs_per_second": 16471.425630315753
+  "avg_processing_time": 3.999316692352295e-05,
+  "total_processing_time": 1.599726676940918,
+  "pairs_per_second": 25004.27140246865
 }

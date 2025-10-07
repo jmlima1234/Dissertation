@@ -1,0 +1,25 @@
+{
+  "dataset_info": {
+    "total_pairs": 40000,
+    "unique_addresses": 62877,
+    "processing_time_seconds": 5.850634574890137,
+    "addresses_per_second": 10747.039350202573
+  },
+  "extraction_rates": {
+    "total_addresses": 62877,
+    "postcode_extraction_rate": 79.05434419581087,
+    "house_number_extraction_rate": 89.86751912464017,
+    "road_extraction_rate": 99.99681918666603,
+    "city_extraction_rate": 92.70639502520794,
+    "complete_parsing_rate": 92.70480461854096,
+    "processing_speed": 10747.039350202573
+  },
+  "component_coverage_by_address": {
+    "address_1_road_coverage": 99.99749999999999,
+    "address_1_city_coverage": 99.3425,
+    "address_1_postcode_coverage": 94.0375,
+    "address_2_road_coverage": 99.99749999999999,
+    "address_2_city_coverage": 88.7525,
+    "address_2_postcode_coverage": 69.62
+  }
+}

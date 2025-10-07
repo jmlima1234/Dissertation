@@ -1,0 +1,9 @@
+{
+  "total_addresses": 62877,
+  "postcode_extraction_rate": 79.05434419581087,
+  "house_number_extraction_rate": 89.86751912464017,
+  "road_extraction_rate": 99.99681918666603,
+  "city_extraction_rate": 92.70639502520794,
+  "complete_parsing_rate": 92.70480461854096,
+  "processing_speed": 10747.039350202573
+}

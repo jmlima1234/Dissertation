@@ -1,0 +1,117 @@
+{
+  "total_queries": 44,
+  "successful_queries": 44,
+  "failed_queries": 0,
+  "avg_response_time_ms": 258.22517726655036,
+  "median_response_time_ms": 240.028049913235,
+  "p95_response_time_ms": 457.4274998740293,
+  "p99_response_time_ms": 465.59520019218326,
+  "min_response_time_ms": 49.843700136989355,
+  "max_response_time_ms": 465.59520019218326,
+  "overall_top1_accuracy": 0.4318181818181818,
+  "overall_top3_accuracy": 0.4772727272727273,
+  "overall_top5_accuracy": 0.4772727272727273,
+  "avg_street_accuracy": 0.45636363636363636,
+  "avg_city_accuracy": 0.4486363636363636,
+  "avg_postcode_accuracy": 0.045454545454545456,
+  "avg_overall_match_score": 0.5106684491978609,
+  "avg_confidence_score": 53.546061180454544,
+  "avg_results_per_query": 9.090909090909092,
+  "accuracy_improvement_vs_strict": {
+    "top1_improvement": 0.0,
+    "top3_improvement": 0.0,
+    "top5_improvement": 0.0
+  },
+  "category_results": {
+    "exact_match": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 328.8276799954474,
+      "top1_accuracy": 1.0,
+      "avg_overall_score": 1.0,
+      "avg_confidence": 59.553385042
+    },
+    "abbreviation": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 284.0374999679625,
+      "top1_accuracy": 0.8,
+      "avg_overall_score": 0.8164705882352942,
+      "avg_confidence": 54.389741834000006
+    },
+    "typo": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 302.5799000170082,
+      "top1_accuracy": 0.4,
+      "avg_overall_score": 0.5962352941176471,
+      "avg_confidence": 31.613946827999996
+    },
+    "partial": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 250.42570000514388,
+      "top1_accuracy": 0.4,
+      "avg_overall_score": 0.7282352941176471,
+      "avg_confidence": 83.56399971799999
+    },
+    "postcode_only": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 235.14550006948411,
+      "top1_accuracy": 0.4,
+      "avg_overall_score": 0.4,
+      "avg_confidence": 39.313134571999996
+    },
+    "city_only": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 315.69101992063224,
+      "top1_accuracy": 0.2,
+      "avg_overall_score": 0.2,
+      "avg_confidence": 107.97550772
+    },
+    "complex": {
+      "total_queries": 5,
+      "successful": 5,
+      "avg_response_time_ms": 245.82981998100877,
+      "top1_accuracy": 0.0,
+      "avg_overall_score": 0.15294117647058822,
+      "avg_confidence": 37.96588251
+    },
+    "edge_case": {
+      "total_queries": 9,
+      "successful": 9,
+      "avg_response_time_ms": 172.13579999386437,
+      "top1_accuracy": 0.3333333333333333,
+      "avg_overall_score": 0.3333333333333333,
+      "avg_confidence": 31.57207786888889
+    }
+  },
+  "difficulty_results": {
+    "easy": {
+      "total_queries": 15,
+      "successful": 15,
+      "avg_response_time_ms": 293.22139999518794,
+      "top1_accuracy": 0.5333333333333333,
+      "avg_overall_score": 0.5333333333333333,
+      "avg_confidence": 68.94734244466666
+    },
+    "medium": {
+      "total_queries": 15,
+      "successful": 15,
+      "avg_response_time_ms": 281.19694666626555,
+      "top1_accuracy": 0.6,
+      "avg_overall_score": 0.6564705882352941,
+      "avg_confidence": 52.979350972666666
+    },
+    "hard": {
+      "total_queries": 14,
+      "successful": 14,
+      "avg_response_time_ms": 196.11661427188665,
+      "top1_accuracy": 0.14285714285714285,
+      "avg_overall_score": 0.33016806722689074,
+      "avg_confidence": 37.65187790571429
+    }
+  }
+}

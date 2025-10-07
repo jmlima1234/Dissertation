@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Top 10 Spatial Index Performance Improvements}
+\label{tab:spatial_top_improvements}
+\begin{tabular}{lccccc}
+\toprule
+Index Type & Test Name & Complexity & Speedup Factor & Time Reduction Pct & Is Significant \\
+\midrule
+GIST & nearest_neighbor_complex & complex & 913.78 & 99.89 & True \\
+SPGIST & lisboa_bbox_medium & medium & 2.45 & 59.17 & True \\
+GIST & porto_bbox_medium & medium & 1.80 & 44.58 & True \\
+GIST & lisboa_bbox_medium & medium & 1.68 & 40.39 & False \\
+SPGIST & porto_bbox_medium & medium & 1.55 & 35.66 & False \\
+BRIN & nearest_neighbor_complex & complex & 1.13 & 11.42 & True \\
+GIST & large_area_query & complex & 1.12 & 11.07 & True \\
+SPGIST & porto_center_1km & simple & 1.07 & 6.68 & True \\
+SPGIST & distance_calculation_complex & complex & 1.07 & 6.56 & False \\
+BRIN & large_area_query & complex & 1.06 & 5.58 & False \\
+\bottomrule
+\end{tabular}
+\end{table}

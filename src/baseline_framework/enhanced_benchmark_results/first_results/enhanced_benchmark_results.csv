@@ -1,0 +1,45 @@
+Query,Category,Difficulty,Expected_Street,Expected_City,Response_Time_ms,Success,Num_Results,Top1_Correct,Top3_Correct,Top5_Correct,Best_Match_Rank,Best_Match_Score,Overall_Score,Street_Accuracy,City_Accuracy,Postcode_Accuracy,Avg_Confidence,Best_Confidence
+"Rua Augusta, Lisboa",exact_match,easy,Rua Augusta,Lisboa,367.88,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,26.255,26.434
+"Avenida da Liberdade, Lisboa",exact_match,easy,Avenida da Liberdade,Lisboa,255.98,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,86.720,86.720
+"Rua Santa Catarina, Porto",exact_match,easy,Rua Santa Catarina,Porto,366.16,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,92.830,92.830
+"Praça do Comércio, Lisboa",exact_match,easy,Praça do Comércio,Lisboa,236.27,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,41.636,47.720
+"Rua das Flores, Porto",exact_match,easy,Rua das Flores,Porto,417.85,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,50.327,72.962
+"R. Augusta, Lisboa",abbreviation,medium,Rua Augusta,Lisboa,434.55,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,26.255,26.434
+"Av. da Liberdade, Lisboa",abbreviation,medium,Avenida da Liberdade,Lisboa,212.88,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,86.720,86.720
+"Pr. do Comércio, Lisboa",abbreviation,medium,Praça do Comércio,Lisboa,147.64,True,10,False,False,False,,0.000,0.082,0.000,0.200,0.000,21.258,21.258
+"R. Santa Catarina, Porto",abbreviation,medium,Rua Santa Catarina,Porto,417.06,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,92.830,92.830
+"Av. dos Aliados, Porto",abbreviation,medium,Avenida dos Aliados,Porto,208.06,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,44.886,44.886
+"Rua Agusta, Lisboa",typo,hard,Rua Augusta,Lisboa,235.75,True,10,False,False,False,,0.000,0.281,0.310,0.240,0.000,22.284,22.412
+"Avenida da Liberdde, Lisboa",typo,hard,Avenida da Liberdade,Lisboa,222.72,True,10,False,False,False,,0.000,0.465,0.790,0.000,0.000,30.458,30.495
+"Rua Santa Catrian, Porto",typo,hard,Rua Santa Catarina,Porto,250.08,True,10,False,False,False,,0.000,0.235,0.400,0.000,0.000,27.214,27.221
+"Praca do Comercio, Lisboa",typo,hard,Praça do Comércio,Lisboa,423.01,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,41.636,47.720
+"Avenida da Republica, Lisboa",typo,hard,Avenida da República,Lisboa,381.35,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,36.479,36.479
+Augusta Lisboa,partial,medium,Rua Augusta,Lisboa,465.60,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,24.765,24.927
+Liberdade,partial,hard,Avenida da Liberdade,Lisboa,165.38,True,10,False,False,False,,0.000,0.535,0.910,0.000,0.000,79.573,79.573
+Santa Catarina Porto,partial,medium,Rua Santa Catarina,Porto,207.18,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,89.716,89.716
+Comércio,partial,hard,Praça do Comércio,Lisboa,186.84,True,10,False,False,False,,0.000,0.518,0.880,0.000,0.000,104.096,104.096
+Aliados,partial,hard,Avenida dos Aliados,Porto,227.13,True,10,False,False,False,,0.000,0.588,1.000,0.000,0.000,119.670,119.831
+1100-001,postcode_only,easy,,Lisboa,246.07,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,22.751,26.006
+4000-001,postcode_only,easy,,Porto,209.37,True,10,False,False,False,7,0.937,0.000,0.000,0.000,0.000,18.138,24.648
+3000-001,postcode_only,easy,,Coimbra,240.44,True,10,True,True,True,1,1.000,1.000,0.000,1.000,1.000,48.969,82.837
+2700-001,postcode_only,easy,,Amadora,236.53,True,10,True,True,True,1,1.000,1.000,0.000,1.000,1.000,82.997,82.997
+1000-001,postcode_only,easy,,Lisboa,243.33,True,10,False,False,False,10,0.820,0.000,0.000,0.000,0.000,23.712,29.188
+Lisboa,city_only,easy,,Lisboa,239.62,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,103.240,103.240
+Porto,city_only,easy,,Porto,250.82,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,94.391,98.063
+Coimbra,city_only,easy,,Coimbra,445.80,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,132.929,133.236
+Braga,city_only,easy,,Braga,397.74,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,104.230,118.940
+Faro,city_only,easy,,Faro,244.48,True,10,True,True,True,1,1.000,1.000,0.000,1.000,0.000,105.087,105.087
+Rua Augusta 100 1100-048 Lisboa,complex,medium,Rua Augusta,Lisboa,461.30,True,10,False,True,True,3,0.968,0.000,0.000,0.000,0.000,25.746,33.767
+"Avenida da Liberdade número 200, Lisboa",complex,medium,Avenida da Liberdade,Lisboa,176.94,True,10,False,False,False,,0.000,0.465,0.790,0.000,0.000,30.458,30.495
+"Centro Comercial Colombo, Lisboa",complex,hard,,Lisboa,187.70,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,29.949,38.826
+"Estação de São Bento, Porto",complex,medium,,Porto,203.41,True,10,False,False,False,,0.000,0.300,0.000,0.300,0.000,32.137,36.305
+Universidade de Coimbra,complex,medium,,Coimbra,199.81,True,10,False,True,True,3,0.600,0.000,0.000,0.000,0.000,71.540,241.955
+,edge_case,hard,,,49.84,True,0,False,False,False,,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+   ,edge_case,hard,,,50.61,True,0,False,False,False,,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+123456789,edge_case,hard,,,53.86,True,0,False,False,False,,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+XYZABC,edge_case,hard,,,51.13,True,0,False,False,False,,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+Rua Muito Longa Nome de Uma Rua Que Não Existe Em Portugal,edge_case,hard,,,260.24,True,10,False,False,False,,0.000,0.000,0.000,0.000,0.000,35.769,37.916
+São João da Madeira,edge_case,medium,,São João da Madeira,252.24,True,10,False,False,False,6,1.000,0.000,0.000,0.000,0.000,162.476,170.753
+Vila Nova de Gaia,edge_case,medium,,Vila Nova de Gaia,216.87,True,10,True,True,True,1,1.000,1.000,0.000,1.000,0.000,33.395,33.395
+rua augusta lisboa,edge_case,medium,Rua Augusta,Lisboa,325.02,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,26.255,26.434
+RUA AUGUSTA LISBOA,edge_case,medium,Rua Augusta,Lisboa,289.41,True,10,True,True,True,1,1.000,1.000,1.000,1.000,0.000,26.255,26.434

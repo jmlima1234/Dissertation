@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-22T14:39:56.070295",
+    "experiment_type": "comprehensive_spatial_index_comparison",
+    "index_types_tested": 4,
+    "queries_per_index": 7,
+    "total_measurements": 28
+  },
+  "index_build_performance": [
+    {
+      "index_type": "NONE",
+      "index_name": "No Index (Control)",
+      "build_time_seconds": 0.0,
+      "index_size_mb": 0.0
+    },
+    {
+      "index_type": "GIST",
+      "index_name": "GiST Index",
+      "build_time_seconds": 1.3680338859558105,
+      "index_size_mb": 28.5859375
+    },
+    {
+      "index_type": "SPGIST",
+      "index_name": "SP-GiST Index",
+      "build_time_seconds": 1.8941643238067627,
+      "index_size_mb": 33.2578125
+    },
+    {
+      "index_type": "BRIN",
+      "index_name": "BRIN Index",
+      "build_time_seconds": 0.14094901084899902,
+      "index_size_mb": 0.0234375
+    }
+  ],
+  "query_performance_summary": {
+    "GIST": {
+      "avg_speedup": 131.59514462684533,
+      "median_speedup": 1.124512462814355,
+      "max_speedup": 913.777441332324,
+      "significant_improvements": 3,
+      "total_queries": 7
+    },
+    "SPGIST": {
+      "avg_speedup": 1.2926179428443016,
+      "median_speedup": 1.0702215782206057,
+      "max_speedup": 2.4493604610302904,
+      "significant_improvements": 2,
+      "total_queries": 7
+    },
+    "BRIN": {
+      "avg_speedup": 0.9996521886102254,
+      "median_speedup": 1.0309595966318943,
+      "max_speedup": 1.128946425782364,
+      "significant_improvements": 1,
+      "total_queries": 7
+    }
+  },
+  "statistical_analysis_summary": {
+    "GIST": {
+      "significant_improvements": 3,
+      "total_queries": 7,
+      "avg_effect_size": 4.085537164906831,
+      "avg_improvement_pct": 24.020368396063617
+    },
+    "SPGIST": {
+      "significant_improvements": 3,
+      "total_queries": 7,
+      "avg_effect_size": 1.6950098389847397,
+      "avg_improvement_pct": 13.540032792433719
+    },
+    "BRIN": {
+      "significant_improvements": 0,
+      "total_queries": 7,
+      "avg_effect_size": -0.009731450415976515,
+      "avg_improvement_pct": -0.755571345005367
+    }
+  },
+  "key_findings": {
+    "best_overall_performance": "GIST",
+    "most_consistent_performance": "BRIN",
+    "fastest_build": "BRIN",
+    "smallest_storage": "BRIN"
+  }
+}

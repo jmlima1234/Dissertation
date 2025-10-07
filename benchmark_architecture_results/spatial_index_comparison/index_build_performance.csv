@@ -1,0 +1,5 @@
+index_type,index_name,build_time_seconds,index_size_mb
+NONE,No Index (Control),0.0,0.0
+GIST,GiST Index,1.3680338859558105,28.5859375
+SPGIST,SP-GiST Index,1.8941643238067627,33.2578125
+BRIN,BRIN Index,0.14094901084899902,0.0234375

@@ -12,7 +12,7 @@
   "similarity_separation": 0.2525148350424936,
   "algorithm_name": "TF-IDF (Optimal)",
   "threshold": 0.5500000000000002,
-  "avg_processing_time": 0.0013655684530735016,
-  "total_processing_time": 54.62273812294006,
-  "pairs_per_second": 732.2957686590429
+  "avg_processing_time": 0.0004128909468650818,
+  "total_processing_time": 16.51563787460327,
+  "pairs_per_second": 2421.947024008654
 }

@@ -12,7 +12,7 @@
   "similarity_separation": -0.00015,
   "algorithm_name": "Baseline (Exact Match)",
   "threshold": 0.5,
-  "avg_processing_time": 1.1520147323608399e-06,
-  "total_processing_time": 0.046080589294433594,
-  "pairs_per_second": 868044.4545623874
+  "avg_processing_time": 4.631638526916504e-07,
+  "total_processing_time": 0.018526554107666016,
+  "pairs_per_second": 2159063.1354078194
 }
